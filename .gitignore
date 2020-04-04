@@ -1,5 +1,6 @@
 **/node_modules
 website/**/build
+node_modules/*
 .node-version
 .DS_Store
 website/i18n/en.json
