@@ -1,0 +1,9 @@
+{
+  "docs": {
+    "Start": ["start/intro", "start/problem"],
+    "1. Repair": ["repair/intro"],
+    "2. Upgrade": ["upgrade/intro"],
+    "3. Recreate (soon)": ["recreate/soon"],
+    "4. Join the movement":["join/intro"]
+  }
+}
