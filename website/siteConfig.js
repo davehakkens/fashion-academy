@@ -24,7 +24,7 @@ const siteConfig = {
   title: 'Fashion', // Title for your website.
   tagline: 'Providing sustainable fashion',
   url: 'https://onearmy.github.io', // Your website URL
-  baseUrl: "/academy/",
+  baseUrl: "/fashion-academy/",
   onPageNav: 'separate',
   // remove /docs/ prefix
   docsUrl: "",
