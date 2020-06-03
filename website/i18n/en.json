@@ -5,6 +5,9 @@
     "previous": "Previous",
     "tagline": "Providing sustainable fashion",
     "docs": {
+      "care/intro": {
+        "title": "Learn the basics"
+      },
       "join/intro": {
         "title": "Become part of it"
       },
@@ -29,10 +32,11 @@
     },
     "categories": {
       "Start": "Start",
-      "1. Repair": "1. Repair",
-      "2. Upgrade": "2. Upgrade",
-      "3. Recreate (soon)": "3. Recreate (soon)",
-      "4. Join the movement": "4. Join the movement"
+      "1. Care": "1. Care",
+      "2. Repair": "2. Repair",
+      "3. Upgrade": "3. Upgrade",
+      "4. Recreate (soon)": "4. Recreate (soon)",
+      "5. Join the movement": "5. Join the movement"
     }
   },
   "pages-strings": {
