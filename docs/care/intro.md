@@ -113,8 +113,3 @@ Many irons have different levels for various fabrics on the heat dial, but here�
 
 I prefer is a iron with a proper steam function, sometimes the steam function  is enough to
 get the wrinkles out so you don’t need to press the fibers. If you don’t have time to iron or you don’t have one, steam your clothes by hanging them in the bathroom when you take a hot shower or wet on a hanger and hang them outside (not for knits, see step 2.)
-
-Researchers found that repeatedly drying cotton garments led to cracks in the clothing, which reduced fabric strength by 25 percent or more and also caused pilling
-By swapping to air drying you save a lot of time, money, quality and most of all energy & curb emmisions. Use UV light to air and clean smells from protein fibers.
-Wool, alpaca, cashmere, mohair and angora do not readily absorb body odor and need little washing, but when they do begin to accumulate odors you can put garments into direct sunlight for several hours. UV light is a practical tradition for cleaning clothing items that dates back as long as humans have worn these fibers.
-Don’t do this with natural dyes, cause UV light will change the color.
