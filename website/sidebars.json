@@ -1,10 +1,11 @@
 {
   "docs": {
-    "Start": ["start/intro", "start/problem"],
+    "Start": ["start/intro", "start/problem", "start/basics"],
     "1. Care": ["care/intro"],
     "2. Repair": ["repair/intro"],
     "3. Upgrade": ["upgrade/intro"],
-    "4. Recreate (soon)": ["recreate/soon"],
-    "5. Join the movement":["join/intro"]
+    "4. Create (locked)": ["create/locked"],
+    "5. Join the movement":["join/intro"],
+    "Other":["question/faq", "question/chat"]
   }
 }

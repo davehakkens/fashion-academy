@@ -1,6 +1,6 @@
 ---
 id: intro
-title: Learn the basics
+title: 📸 Learn to upgrade clothes
 ---
 
 <div class="videocontainer">
@@ -9,3 +9,4 @@ title: Learn the basics
 
 
 In this chapter we are going to show how you can upgrade your clothes. Re-color, stitch them together, combine 2 pieces etc. In the video we will share a few techniques, explain how to choose which one works on what material and we will make an example.
+📸

@@ -1,6 +1,6 @@
 ---
 id: problem
-title: Understand the problem
+title: 📷 Whats the problem?
 ---
 
 <div class="videocontainer">
@@ -8,3 +8,11 @@ title: Understand the problem
 </div>
 
 In this chapter we are going to explain the problem in a long video 30 min video. All the way
+
+
+- problem
+- Make (bangladesh)
+- Consume (western world)
+- Waste (Ghana)
+- How to break the cycle
+- Our goals

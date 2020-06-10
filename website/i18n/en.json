@@ -6,25 +6,34 @@
     "tagline": "Providing sustainable fashion",
     "docs": {
       "care/intro": {
-        "title": "Learn the basics"
+        "title": "📸 Take care of your clothes"
+      },
+      "create/locked": {
+        "title": "Chapter is locked"
       },
       "join/intro": {
-        "title": "Become part of it"
+        "title": "📷 Become part of it"
       },
-      "recreate/soon": {
-        "title": "Coming soon."
+      "question/chat": {
+        "title": "Chat"
+      },
+      "question/faq": {
+        "title": "FAQ"
       },
       "repair/intro": {
-        "title": "Learn the basics"
+        "title": "📸 Learn to repair clothes"
+      },
+      "start/basics": {
+        "title": "📷 Basic tools & techniques"
       },
       "start/intro": {
-        "title": "Hello ✋"
+        "title": "📸 Hello ✋"
       },
       "start/problem": {
-        "title": "Understand the problem"
+        "title": "📷 Whats the problem?"
       },
       "upgrade/intro": {
-        "title": "Learn the basics"
+        "title": "📸 Learn to upgrade clothes"
       }
     },
     "links": {
@@ -35,8 +44,9 @@
       "1. Care": "1. Care",
       "2. Repair": "2. Repair",
       "3. Upgrade": "3. Upgrade",
-      "4. Recreate (soon)": "4. Recreate (soon)",
-      "5. Join the movement": "5. Join the movement"
+      "4. Create (locked)": "4. Create (locked)",
+      "5. Join the movement": "5. Join the movement",
+      "Other": "Other"
     }
   },
   "pages-strings": {
