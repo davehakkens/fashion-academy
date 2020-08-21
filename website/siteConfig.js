@@ -23,11 +23,11 @@ const users = [
 const siteConfig = {
   title: 'Fashion', // Title for your website.
   tagline: 'Providing sustainable fashion',
-  url: 'https://onearmy.github.io', // Your website URL
-  baseUrl: "/fashion-academy/",
+  url: 'https://fashion.davehakkens.nl', // Your website URL
+  baseUrl: "/",
   onPageNav: 'separate',
   // remove /docs/ prefix
-  docsUrl: "",
+  docsUrl: "academy",
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
