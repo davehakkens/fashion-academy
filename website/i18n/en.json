@@ -5,6 +5,21 @@
     "previous": "Previous",
     "tagline": "Providing sustainable fashion",
     "docs": {
+      "basics/fibres": {
+        "title": "Fibres"
+      },
+      "basics/intro": {
+        "title": "Introduction"
+      },
+      "basics/sewing": {
+        "title": "Sewing"
+      },
+      "basics/stitches": {
+        "title": "Stitches"
+      },
+      "basics/textiles": {
+        "title": "Textiles"
+      },
       "care/intro": {
         "title": "📸 Take care of your clothess"
       },
@@ -27,7 +42,7 @@
         "title": "📷 Basic tools & techniques"
       },
       "start/intro": {
-        "title": "📸 Hello ✋"
+        "title": "Hello ✋"
       },
       "start/problem": {
         "title": "📷 Whats the problem?"
@@ -41,11 +56,12 @@
     },
     "categories": {
       "Start": "Start",
-      "1. Care": "1. Care",
-      "2. Repair": "2. Repair",
-      "3. Upgrade": "3. Upgrade",
-      "4. Create (locked)": "4. Create (locked)",
-      "5. Join the movement": "5. Join the movement",
+      "1. Basics": "1. Basics",
+      "2. Care": "2. Care",
+      "3. Repair": "3. Repair",
+      "4. Upgrade": "4. Upgrade",
+      "5. Create (locked)": "5. Create (locked)",
+      "6. Join the movement": "6. Join the movement",
       "Other": "Other"
     }
   },

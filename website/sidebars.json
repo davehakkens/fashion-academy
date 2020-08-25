@@ -1,11 +1,12 @@
 {
   "docs": {
-    "Start": ["start/intro", "start/problem", "start/basics"],
-    "1. Care": ["care/intro"],
-    "2. Repair": ["repair/intro"],
-    "3. Upgrade": ["upgrade/intro"],
-    "4. Create (locked)": ["create/locked"],
-    "5. Join the movement":["join/intro"],
+    "Start": ["start/intro", "start/problem"],
+    "1. Basics": ["basics/intro", "basics/fibres", "basics/textiles", "basics/sewing", "basics/stitches"],
+    "2. Care": ["care/intro"],
+    "3. Repair": ["repair/intro"],
+    "4. Upgrade": ["upgrade/intro"],
+    "5. Create (locked)": ["create/locked"],
+    "6. Join the movement":["join/intro"],
     "Other":["question/faq", "question/chat"]
   }
 }
