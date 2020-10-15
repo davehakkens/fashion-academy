@@ -23,7 +23,7 @@ const users = [
 const siteConfig = {
   title: 'Fashion', // Title for your website.
   tagline: 'Providing sustainable fashion',
-  url: 'https://fashion.davehakkens.nl', // Your website URL
+  url: 'https://community.fixing.fashion', // Your website URL
   baseUrl: "/",
   onPageNav: 'separate',
   // remove /docs/ prefix
@@ -33,7 +33,7 @@ const siteConfig = {
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'fashion-academy',
+  projectName: 'fixing-fashion-academy',
   organizationName: 'ONEARMY',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
@@ -41,7 +41,7 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    { href: 'https://fashionproject.com', label: 'back to main' },
+    { href: 'https://fixing.fashion', label: 'back to main' },
   ],
 
   // If you have users set above, you add it here:
