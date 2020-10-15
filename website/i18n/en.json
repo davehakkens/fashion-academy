@@ -27,7 +27,7 @@
         "title": "Chapter is locked"
       },
       "join/intro": {
-        "title": "📷 Become part of it"
+        "title": "Become part of it"
       },
       "question/chat": {
         "title": "Chat"
@@ -60,7 +60,7 @@
       "2. Care": "2. Care",
       "3. Repair": "3. Repair",
       "4. Upgrade": "4. Upgrade",
-      "5. Create (locked)": "5. Create (locked)",
+      "5. Create (later)": "5. Create (later)",
       "6. Join the movement": "6. Join the movement",
       "Other": "Other"
     }

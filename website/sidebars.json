@@ -5,7 +5,7 @@
     "2. Care": ["care/intro"],
     "3. Repair": ["repair/intro"],
     "4. Upgrade": ["upgrade/intro"],
-    "5. Create (locked)": ["create/locked"],
+    "5. Create (later)": ["create/locked"],
     "6. Join the movement":["join/intro"],
     "Other":["question/faq", "question/chat"]
   }
