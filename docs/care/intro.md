@@ -1,123 +1,141 @@
 ---
 id: intro
-title: 📸 Take care of your clothess
+title: Care for your clothes
 ---
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/r1bRUnYYu3M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+# 1. Stains
+Often garments are thrown away, because stains were impossible to remove, but there is always something possible. Ideally, you act on a stain as soon as it happens! Identify the spot and check what is necessary to remove it. You can easily replace the heavy chemical detergent for ingredients that are more natural and more transparent of what they consist of, as they are single ingredients and not mixtures. This are the
 
-#  1. Introduction (workspace setting)
-## 1.1 Why care?
-Hello. In this chapter we are going to show you the most basic starting point of producing less waste from the clothes. By making sure you can keep the clothes you already have longer.  For instance by having the right washing settings so they wear out less or how to remove a stain like red wine and in general by understanding the basics of the material. It sounds boring. But we basically wear clothes everyday, but know very little about them.. And because of this many garments are broken or thrown away unnecessary fast. Watch this video to learn how to extend the lifetime.   
+### Cleaning Toolkit:
+1. Bile soap/Ox gall soap (not vegan) (PH level 8-9)
+2. Distilled vinegar, 8% Acetic acid (2,5 Level)
+3. Baking soda/Sodium Bicarbonate (NaHCO₃)PH-level 7), if you think not effective enough than replace it or combine it for Washing soda/Sodium Carbonate (Na2CO3)PH-level 11), don’t use Washing soda to much on Protein fibres
+4. Tooth Paste (Ph level 9) with glycerine and Sodium fluoride
+5. Table Salt (Ph level 7)
+6. Green Soap/Dishwash soap (Ph level 10)
+7. Lemon, Citric acid (Ph level 2)
+8. Hydrogen Peroxide ( Ph level 3), for the heavy stains 
+9. **Where is 9?**
 
-## 1.2 Make a link with Basics  
-This video is part of a series of videos that will show you how to care for your clothes, later we go into how to repair them or how to upgrade. Would recommend to watch the “basics of clothes” first to make sure you understand the principles behind textiles, sewing, etc.  
-
-#   2. Stains (table with ingredients and stains)  
-
-## 2.1 Intro Alicia
-Ok let’s start. Lets say you have a stain. Red wine, or tomato sauce, pen ink fruit. What should we do now? I dunno, so Alicia is going to explain you how to deal with this!  
-
-## 2.2 Fast  
-Ideally when this happens take care of it as soon as you can! Letting it dry or soak into the fabric will make it much more difficult to clean. So act fast! Identify the spot, see whats on there and check what mixture you need.  
-
-## 2.3 Ingredients  
-The ingredients and mixture you need depends on the stain is different each time. However most of it can be done with 9 basic ingredients. Bile soap/Ox gall soap, Distilled vinegar, Baking soda, Tooth Paste, Table Salt, Hydrogen Peroxide, Green Soap/Dishwash soap, Lemon. Most of mixtures is a combination of these ingredients. We’ve made a list in the academy that gives an overview of what mixture to use for what stain  
-
-## 2.4 Cleaning  
-So once we know our mixture it’s time to clean.  
-Few tips here. Never rub, always dab it in the same fibre direction. This will make sure you won’t wear out the textile on that specific spot. When you are in doubt or still figuring out what is the stain, rinse or soak in lukewarm water before treating or laundering. Once the stain is out. Let it to dry. Or you can fully wash your clothes, so next chapter. How to wash properly.  
-
-#  3. Prepare Washing (in front of pile clothes)
-## 3.1 Intro  
-Washing itself is quite an important one to avoid your clothes wearing out fast. A few simple changes in your washing routine can make a big difference over time. But in order to see what we can improve we first need to understand whats going on.
-## 3.2 Washing labels  
-The washing labels are simple icons that give you clear instructions on how to treat and wash your garment, You can find them mostly in the label of your tshirt. I’m sure you have seen them before  There are actually a lot of variations of these icones but there are 5 main ones..   
-wash, bleach, tumble dry, iron and dry clean.     
-You can find more detailed information about these 5 and all the others in the academy.  They are the easiest way to find out how to wash your garments. However sometimes the labels are missing and you need to figure it out yourself.  
-
-## 3.3 Plant/animal/oil Based  
-In the Basics video we discussed that there are different types of fibres. Plant based, Animal based fibres and Synthetic fibres are. If you want to know more in detail about that topic make sure to watch the basics video. Anyway its also important for washing, because some of these fibres need to be treated gently and some are easier to use.  Roughly **Plant based** like cotton and hemp are pretty easy to wash, oil based fibres like polyester even easier . But you really need to watch out with **Animal based** like wool and silk require a lot of care. But I can imagine this all sounds a bit abstract. So let me give you a few specific examples  
-
-## 3.4 Examples  
-**Wool**. (animal based) Wool, alpaca, cashmere, mohair and angora do not readily absorb body odour and need little washing, but when they do begin to accumulate odours you can put garments into direct sunlight for several hours. Using sunlight to clean clothing items is a practical tradition that dates back as long as humans have worn these fibres. If there is a need to wash. Its best to do it by hand on low temperature, and when it comes out when let it dry flat, if you hang it it will stretch everything  
-
-**Silks** (animal based)  are prone to discolouration and should be cleaned after every wear. Cleaning requires a lukewarm wash and either need to be ironed inside out or hung wet outside. Adding a little bit of vinegar with some orange peels when washing, helps maintain the softness of the silk.
+### Stains overview
+Below a chart that show a few stains and wheter you can remove them. Scroll down below to see how to do it, if you don't know what 🛢 Synthetic, 🐑 Animal Based or 🌱 Plant Based Fibres mean **have a look here in de academy**
 
 
-**Leather** (animal based)  needs to be maintained with grease. Use some old underwear as your grease cloth and rub it in with a circular motion. This also applies to jackets and shoes. If the leather starts to lose its colour, you can buy coloured grease. Suede can be cleaned using a brush, or! old bread. Good natural sponge. Rub it into the suede directly. Pro tip: make sure to do this outside as it can leave a bit of a mess, but some food for the birds..
+
+|             |      Solution    | Needed Tools   | 🛢| 🐑 | 🌱|
+|--------------|--------------|--------------|--------------|--------------|--------------|
+|🧈 Grease/oil/Butter|Cold water|Ox gall soap|✔|✔|✔|
+|⚙️    Rust|Cold water|Salt + Lemon juice|✔|-|✔|
+|💦 Sweat|Cold water|Baking Soda/Washing Soda (GreenhubⒸ)|✔|-|✔|
+|🖊 Ballpoint|Vinegar|Toothpaste|✔|-|✔|
+|🖋 Pen Ink|Vinegar|Toothpaste|✔|-|✔|
+|☕️ Coffee|Cold water|Baking Soda + Lemon|✔|✔|✔|
+|🦷 Toothpaste|Hot water|-|✔|✔|✔|
+|🍓 Fruit |Hot water|Lemon + Vinegar |✔|✔|✔|
+|🍛 Curry/Turmeric|Hot water|Bile Soap + Lemon Juice|✔|✔|✔|
+|🍷 Wine |Hot water (boiling)|Salt + Distilled Vinegar|✔|-|✔|
+|🍫 Chocolate/Cacao|Cold water|Bile Soap|✔|-|✔|
+|🍞 Flour/Powder |Hot water|Dust off|✔|✔|✔|
+|🧱 Mud |Cold water|Dust off/ Bile soap|✔|✔|✔|
+|🖍 Glue  |Hot water|Vinegar|✔|-|✔|
+|🎨 Paint |Cold water|Green Soap or Vinegar + Hydrogen Peroxide|✔|-|✔|
+|🍅 Tomato Sauce |Cold water|Green soap + Bakingsoda|✔|✔|✔|
+|◻️ Chewing gum |Cold water|Toothpaste|✔|✔|✔|
+|🩸 Blood |Spit|-|✔|✔|✔|
+
+### Methods on how to clean each stain
+ 
+**🧈 Grease/Oil/Butter:** Try to remove access and try to remove it with a dry cloth. Blot some Ox gall soap wet and rub on the stain. Rinse it out.
+
+**⚙️ Rust:** Use some Salt and spray some lemon on top. Leave it in for 30 minutes and remove with cold water. Repeat till it's gone.
+
+**💦 Sweat:** Depending on how old the stains are, how hard your mixture needs to be. Quite new stains can be removed with Baking Soda. Cover the stains with Baking soda and a few drops of hydrogen peroxide, rub it with a sponge or a toothbrush. Let it sit for 30 minutes. Rinse it out with hand warm water. If the whole garment is yellow or the stains are pretty old, you can make a warm water bath with Washing soda, let it cool down. Leave the shirt overnight if the garment is white. If it is colored leave it in for an hour.
+
+**🖊 Ballpoint:**  Ballpoint is one of the hardest stains and definitely needs to be pretreated before you leave it in the washing machine.  You can use quite some hydrogen peroxide, but that is quite heavy for the fibre if used in big quantities. Definitely for Woollen fibres. Toothpaste works fine as well and is a bit more natural, depending on how heavy the stain is. Use paste-based toothpaste that contains glycerol, sodium fluoride and is natural based without any flakes. If not, not much happens to the stain. Depending on how heavy the stain is, how much you need to repeat this process.
+Rub quite some toothpaste with a toothbrush on the stain and let it sit for 10 minutes. Then rub it in again and rinse off the toothpaste with cold water. Repeat this till it is fully gone.
+
+**🖋 Pen Ink:** Apply the same process as Ballpoint.
+
+**☕️ Coffee:** If it is a new stain, try to rinse it off with some cold water to dilute it. If it is still in there and you are not nearby some of the ingredients, try to bolt it with a bit of dishwash soap on top of the stain, and rinse with water till it is gone. If the stain is really set, make a mixture with 2 tablespoons of baking soda + dissolve with warm water. Dip a cloth or a toothbrush in the mixture and rub it on the stain, rinse off with cold water and repeat till its gone. Wash it straight after.
+
+**🦷 Toothpaste:** Annoying because in black clothes it looks like they faded away when wet, but dried up again it’s still there. Just use quite some hot water and it’s gone.
+
+**🍓 Berry/fruit stain:** Lemon has the same acidity and bites out the colour of berries or any kind of natural fruit colourants and Vinegar makes sure the tannins in the stain don't give a different stain colour. If you are in a restaurant you can already ask for a lemon to pretreat the stain. Then remove it after with 2 tbsp vinegar and water. Keep repeating if it is stubborn.
+
+**🍛 Curry:** Although the component Turmeric, is used to dye fabrics as it is tannin based stain, which means it bites easily in the fibre. Still it is possible to remove it naturally.
+So first scrape the curry off. Pour some vinegar on it and in the meantime make a bath of warm water and baking soda and pour it on the stain. Leave it for 30 minutes. Rinse again and repeat till the stain is removed. If not use a bath of hydrogen peroxide. Leave it in the laundry.
+
+**🍷 Wine:** Wine is quite acidic and consists of tannins that bite in the fabric. So act fast! Pour salt on the stain and the edges till it fully covers. This will absorb the excess wine of the stain. Meanwhile boil water in a kettle. Put the stain in a bowl, place in the sink and pour hot water on the stain. The stain should wash out as it gets more alkaline. Beverages containing sugar and tannins, such as wine or fruit, may seem to disappear. But don't be fooled - they may still be there! Once the stain has been exposed to air, the sugar oxidizes and leaves an invisible stain, which ultimately turns yellow, brown or pink. To avoid that, pretreat the shirt with Distilled vinegar, so it goes back to being acidic and shows how much of the stain is still there as it becomes pink. Rinse it off with hot water again, dip in vinegar and rinse off with hot water again till the stain is fully out. Then wash it in the machine.
+
+**🍫 Chocolate/Cacao:** If it is Cacao powder, dust it off first. Remove the left-over stains with water and ox gall soap/bile soap or dishwashing soap. Rinse off and repeat till it is gone.
+
+**🍞 Flour/powder:** Just dust it off, otherwise rinse with tap hot water.
+
+**🧱 Mud:** Let it dry and then brush it off. Remove the left-over stains with water and ox gall soap/bile soap or dishwashing soap. Rinse off and repeat till it is gone.
+
+**🖍 Glue:** Scrape off glue resistant. Make a bowl with ⅓ hot water and ⅔ vinegar. leave the stain soak in as it becomes white. Now try to scrape it off. Wash it after with Washing Soda.
+
+**🎨 Paint:** Scrape off the paint residue. For water based paint let it soak in water and mix it with some greasy soap, like Green Soap or dishwashing soap. Oil based use greasy soap to remove the rest and then leave it in a bath of hydrogen peroxide.
+
+**🍅 Tomato sauce:** Is just like wine a tannin based product, which bites in the fabric. So act as soon as possible! Remove as much of the excess tomato sauce with a spoon. Rinse the back of the stain with cold water till most of it has faded out. If it is a fresh stain, you cover the stain with green soap and leave it for a while. If it is a set stain, make a mixture of washing soda and water and rub it on the stain with a cloth or toothbrush. Leave it for a while. Then rinse it off with warm water and wash it normally.
+
+**◻️ Chewing gum:**This can be super annoying, but is also very easy with very cold water and toothpaste. Make it cold first with water. Brush with an old toothbrush, toothpaste on the chewing gum, till it falls off. Then remove the left over bits, and wash it off with water.
+
+**🩸 Blood:** The weirdest one so far. But during sewing you might pin yourself and without noticing you have a blood stain on your clothes. The enzymes of your spit, react with your blood enzymes. So spit on the stain and blot it away with a clean cloth. Then rinse it off with water. Do mention that only your own spit reacts with your own blood.
+
+# 2. Know the washing labels
+The washing instructions on the label are the only form of transparency a producer can give to the consumer, as the labels are regulated. The full label gives you information on how to wash your clothes, where it’s made and what brand and manufacturer made the garment.
+
+<img src="../assets/care/washing-labels_01.png"/>
+
+### No label?
+No clue what to do with your washing, cause you have already cut out the labels or you bought a second hand shirt without one? Then there are always steps by guessing the fibre of the garment and what the fibres general washing guidelines are. Try to wash your clothes as little as possible. Most clothes don't need to be washed after every wear. The more you wash them, the more they lose their quality. Wash your main clothes around 30 degrees. This temperature not only requires less energy, but it is also better for the fibres as the fabric doesn't undergo the added stress of overheating. But there are a few exceptions. In the Basics, we discussed what Fibres are and how they are divided in Plant-based, Protein-based, Synthetic based. It is important to know that as some of these fibres require different treatment methods.  
 
 
-**Cotton Jeans**  (plant based) When dealing with 100% cotton jeans, you ideally don’t want to wash them. Because of the twill weave jeans/workwear, it makes it a strong workable fabric that over time adjusts to your body shape. By washing them jeans lose their fit and if there is elastane (mostly in skinny jeans) they will become less durable. One way is to maintain jeans/workwear by putting them in your freezer in a plastic bag for two days. This kills the bacteria and its odour and stains can be spot cleaned.
+# 3. Arrange by colour
+# 4. Detergents and Softeners
+The simplest and cheapest option is making your own detergent. This detergent recipe is not only ecological, but it’s also healthy and soft for your skin, very cheap and it gives you the freedom to know exactly what is in your detergent.  Marseille soap, which uses olive oil as a base, contains no synthetic fragrances, phosphates and optical brighteners. It washes as a normal detergent, but for really heavy stains it’s better to pretreat it with stain removing soap, like Oxgall/Bile soap or black soap. You could use that on sweat, coffee, fruit and butter stains.
+
+### Tools + Ingredients:
+ - grater
+ - boil pot 
+- wooden spoon 
+- glass bottles or any large container
+ - 80 gr Marseille Soap 
+- 5l water
+ - funnel
+ - mixer
+ - essential oils (optional for smell)
+ - Baking Soda/Sodium Bicarbonate (optional for bleach)
+ - Vinegar (optional for colored)
 
 
-**With swimwear** (oil based)  or rash guard clothing always wash them out immediately after use with lukewarm water and biodegradable soap. Because either the chloride from the pool or salt from the ocean tends to wear out the fibres much more.
+### Steps to make normal washing detergent
+1. Grate the Marseille soap straight into the pot.
+2. Add 1 litre of water and let it boil for a few minutes.
+3. Add another 4 litres of water and let it boil again for an hour.
+4. Stir it well, put the pot away for a night and let it cool down. After the night the detergent is a little bit thicker, stir it well with a mixer.
+5. Using a funnel helps to get the soap straight into the bottles. Mark the bottles with white and colored.
+
+TIP: Use about 20 ml of washing detergent every wash and every time 10 drops of essential oil in the detergent drawer. Don’t put the essential oil straight with the washing in a dosing ball, cause directed contact with essential oil on clothes may cause stains! 
 
 
-**Fleece** (oil based) is good to wash inside out so it doesn’t create fluff balls. Overal clothes tend to leave fibres behind when washing, not a bad thing. But with oil based fibres they are basically micro plastics.  Specially fleece is very fluffy. So only wash those when needed to prevent pollution. If you wash turn the garment inside out and ideally put it in a Guppy bag that holds most of the microfibres. It also prevents the sweater from pilling  
 
 
-## 3.5 Colors
+**For White wash:** (Illustration of Baking Soda)
+Add Baking Soda/Sodium Bicarbonate to the detergent drawer or make a seperate bottle with white wash detergent. Make a bowl of detergent soap + Baking soda first and let it dissolve first, before putting in the bottle. Can get foamy.
 
-After you are aware of the washing guidelines based on your garment's fibres, it’s good to sort your washing on colour. There's more to the sorting game than just keeping dark garments away from the gleaming whites. The secret is mixing and matching items into loads that need similar soaps, detergents, wash cycles and water temperatures. Without a doubt, smart sorting is the way of ensuring clean results - wash, after wash, after was
+**For Black + Colour wash:** (Illustration of orange and vinegar)
+To keep the blacks as vibrant as possible you can use vinegar. If you don’t like the smell of Vinegar. Mix the Vinegar with some orange peels, let it sit for a week.
 
-## 3.6 Conclusion
-
-So overall washing has a lot of variables. It depends a lot on which material is used (cotton or plant based), which technique, for instance the same piece of cotton lingerie and cotton jeans require different washing. And on top of that  you also have different colors to sort. And here is also where you realise we make our wardrobe very complex. Having so many different materials, techniques and colors in our wardrobe.
-
-#  4. Detergents (Kitchen table setting)
-## 4.1 Intro detergents  
-There are many detergents out there; Liquids washing detergents, Powder washing detergents, Fabric softeners, Stain removal, Whiteners/Bleachers, Colored, Black wash, Washing shells, Washtabs. As you can imagine with of more fabric qualities you need more kinds of specific detergents for each thing. However this is practically impossible for an average person with many mixed mixed clothes and materials. So deciding which detergents you need is hard decision making. But here a few tips and trick  
-
-## 4.2 Quick tips  
-Quick go for detergents is using fragrance-free, phosphate-free, and biodegrading soaps to eliminate endocrine disruptors in our environment  
-
-## 4.3 Eliminate fabric softeners   
-Eliminate fabric softeners all together, and instead, use a ½ cup/ 200 ml of white vinegar during the rinse cycle. This not only takes the stains away, but also brightens white and colored wash, kills bacteria and removes little soap rests in your clothes and even the machine. Both will go longer in the cycle and will be more durable. Next to that it will be cheaper for your wallet.   
-
-## 4.4 Black & White  
-Than you still have the choice of black, white and colored washing detergents. They are all there to take ultimate care of your clothes and to go with you for a longer period. But buying all those detergents is sometimes quite an investment. One key thing though. Don't use white detergents for colored or black as they contain bleach and that is not something you.  
-
-## 4.5 DIY detergent  
-The simplest and cheapest option is making your own detergent. This gives you the freedom to know exactly what is in your detergent. If you want to know more check out the article down below. Next to that you use vinegar with some oranges for as a stain remover and holding the white colors and black colors alive.   
-Baking soda can be used as a whitener. If you want to add a fragrance, add some essential oil in to the detergent drawer, but not straight into the machine as it can cause stains, if comes directly on your garments.  
-
-#  5. Final checklist washing (washing machine)
-## 5.1 Reduce washing  
-Try to wash your clothes as little as possible. Most clothes don't need to be washed after every wear. The more you wash them, the more they lose their quality.   
-
-## 5.2 Low temperature  
-Wash your main clothes around 30 degrees. This temperature not only requires less energy, but it is also better for the fibres as the fabric doesn't undergo the added stress of overheating.   
-
-## 5.3 Empty Pockets:   
-You don’t want any ‘to-do list paper pulp’ on your clothes that takes an hour to remove. Or a screw that rips your pocket. (This sounds like this has happened to me before) So empty pockets before you wash your clothes.   
-
-## 5.4 Zippers and buttons:   
-If you don’t close zippers they zipper might be stuck into the other a garment, and could make a little rip in fragile fabrics. Open all buttons and hooks to prevent them from ripping off the fabric.
+**Softener:** Vinegar is also a good alternative to replace fabric softeners.  Do a household vinegar in a pot with some orange peels and some lemon peels.
+Next to that vinegar kills bacteria and removes little soap rests in your clothes and even the machine. Both will go longer in the cycle and will be more durable. 
 
 
-##  6.0 Drying (outside near clothing rack)
-Introduction  
-After sorting and washing your clothes there comes the drying and ironing. Its seems the most straightforward thing, but even here there are a few tips and tricks to take in account.  
 
-## 6.1 Best way to dry, outside  
-The best way of drying clothes is outside, it free and doesn’t cost energy. But also the UV in the sunlight does a bit of extra cleaning to the bacterias. Drying outside is a practical tradition that dates back as long as humans have worn clothes. This should be your default approach.  
-
-## 6.2 Using the dryer  
-What about the dryer? Well It does come out nice and soft but it has a few downsides. Consumes a lot of electricity. Your clothes spin around which creates friction and wears out your fabrics faster. And the heat has a negative effect on the fibres of your clothes. So we advise to only need it if you are in a rush or something.
-## 6.3 Avoid ironing
-
-Also preferably don’t use an iron, only when it’s really needed like on special shirts for your wedding. First it takes a lot of energy and second, when you iron, you’re using heat to loosen fabric fibres and press them flat. The fibres in the fabric don't like this pressing and unfortunately. Using too much heat on delicate fabrics can completely ruin them, melt them or leave a nasty yellow burned stain.  So if you do use the iron make sure you always use the right heat level for the type of fabric you’re ironing and to be cautious always iron from the inside. So what if you do want to iron. The temperatures for each fabric can be found on the machine. Irons with a proper steam function are best. Because sometimes the steam function is enough to get the wrinkles out so you don’t need to press the fibres.
-
-#  7. Storage (near wardrobe)
-## 7.1 Clothing bags  
-Crucial things for a wardrobe is something wherein clothes are not exposed to dust or UV light.  If your wardrobe is open make sure that clothes that are only worn for special occasions or that you don’t wear often. For instance  your summer clothes in winter, that they are stored in a clothing bag or make it use an old plastic bag or box. This makes sure that your clothing doesn’t fade because of too much exposure of UV light on one side or because moths will slowly eat them up.   
-
-## 7.2 Moth Balls  
-Storing the things you don’t often use in a bag or box help to prevents moths from eating them. However you might still want something in your wardrobe but ideally it doens’t smell like a chemical public toilet. So instead of using those balls you can also use cedar wood.
-
-## 8.0 Next step repairing (workspace)
-## Conclusion  
-OK that was it :)   
-I know i know it was a bit dry, but knowing this can help extend lifetime a lot. Make sure to have a look in the academy to see all the charts and diagrams that help you out with washing.  Useful information for life. Anyway at some point stuff will break and needs repairing. So in the next chapter I will show you how to repair your clothes. Thanks for watching this video.
+# 5. Checklist before washing
+- Pockets: You don’t want any ‘to-do list paper pulp’ on your clothes that takes an hour to remove. Or a screw that rips your pocket. (This sounds like this has happened to me before) So empty pockets before you wash your clothes.
+  - Zippers and buttons: If you don’t close zippers they zipper might be stuck into the other garment, and could make a little rip in fragile fabrics. Open all buttons and hooks to prevent them from ripping off the fabric.

@@ -41,7 +41,7 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    { href: 'https://fixing.fashion', label: 'back to main' },
+    { href: 'https://fixing.fashion', label: 'Back' },
   ],
 
   // If you have users set above, you add it here:
@@ -54,8 +54,8 @@ const siteConfig = {
 
   /* Colors for website */
   colors: {
-    primaryColor: '#313131',
-    secondaryColor: '#416e39',
+    primaryColor: '#8d000a',
+    secondaryColor: '#313131',
   },
 
   /* Custom fonts for website */
@@ -85,7 +85,12 @@ const siteConfig = {
   },
 
   // Add custom scripts here that would be placed in <script> tags.
-  scripts: ['https://buttons.github.io/buttons.js'],
+
+  scripts: [
+  "https://buttons.github.io/buttons.js",
+  "/js/custom.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"
+],
 
   // On page navigation for the current documentation page.
   onPageNav: 'separate',

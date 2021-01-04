@@ -1,6 +1,6 @@
 ---
 id: basics
-title: 📷 Basic tools & techniques
+title: Basic tools & techniques
 ---
 
 <div class="videocontainer">

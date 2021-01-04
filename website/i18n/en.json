@@ -5,8 +5,14 @@
     "previous": "Previous",
     "tagline": "Providing sustainable fashion",
     "docs": {
+      "basics/fabrics": {
+        "title": "Fabrics"
+      },
       "basics/fibres": {
         "title": "Fibres"
+      },
+      "basics/finishing": {
+        "title": "Finishing"
       },
       "basics/intro": {
         "title": "Introduction"
@@ -14,54 +20,46 @@
       "basics/sewing": {
         "title": "Sewing"
       },
-      "basics/stitches": {
-        "title": "Stitches"
-      },
-      "basics/textiles": {
-        "title": "Textiles"
-      },
       "care/intro": {
-        "title": "📸 Take care of your clothess"
+        "title": "Care for your clothes"
       },
-      "create/locked": {
-        "title": "Chapter is locked"
+      "other/branding": {
+        "title": "Branding"
       },
-      "join/intro": {
-        "title": "Become part of it"
-      },
-      "question/chat": {
+      "other/chat": {
         "title": "Chat"
       },
-      "question/faq": {
+      "other/faq": {
         "title": "FAQ"
       },
+      "other/join": {
+        "title": "Join us!"
+      },
       "repair/intro": {
-        "title": "📸 Learn to repair clothes"
+        "title": "Repair your clothes"
       },
       "start/basics": {
-        "title": "📷 Basic tools & techniques"
+        "title": "Basic tools & techniques"
       },
       "start/intro": {
         "title": "Hello ✋"
       },
       "start/problem": {
-        "title": "📷 Whats the problem?"
+        "title": "Whats the problem?"
       },
       "upgrade/intro": {
-        "title": "📸 Learn to upgrade clothes"
+        "title": "Upgrade your clothes"
       }
     },
     "links": {
-      "back to main": "back to main"
+      "Back": "Back"
     },
     "categories": {
       "Start": "Start",
-      "1. Basics": "1. Basics",
-      "2. Care": "2. Care",
-      "3. Repair": "3. Repair",
-      "4. Upgrade": "4. Upgrade",
-      "5. Create (later)": "5. Create (later)",
-      "6. Join the movement": "6. Join the movement",
+      "Basics": "Basics",
+      "1. Care": "1. Care",
+      "2. Repair": "2. Repair",
+      "3. Upgrade": "3. Upgrade",
       "Other": "Other"
     }
   },
