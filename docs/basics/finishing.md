@@ -1,9 +1,8 @@
 ---
-id: finishing
-title: Finishing
+id: seams
+title: Seams
 ---
 
-#  Seams
  (Show Examples in Illustration what seams we use in the Repair and Upgrade)
 When you stitch two or more fabrics together you create a seam. With seams you can create shapes, finish a fabric into a garment and attach whatever fabric you want. This knowledge is handy and necessary if you need to upgrade your garment by reconstructing or resizing or with repairing the seam when they are worn-out. In this case, redo them or paste some Vliesofix From the inside, so the fabric doesn’t rip in the seam.  
 
@@ -22,4 +21,4 @@ When you stitch two or more fabrics together you create a seam. With seams you c
 
 6. **Bound seam :** A Bound Seam is nice for the edges of fabric where you don’t have much centimeters to make a seam, like a thick coat or to finish a lining. The seam is done with a biais lint, which is a narrow strip of fabric. There are no visible stitches on the good side of the fabric, and on the opposite side, the fabric edges are neatly enclosed. You can also use it individually so the bias tape is visible and used as a decorative finish of a fabric edge.
 
-7. **Stretch seam:**  The above stitches are mainly for woven fabrics like jeans, shirts, blouses and jackets and coats. But a lot of our garments are knits. Running stitches are not stretchy and will break. Stretchy seams are preferably created by a serger/lock machine. A Lock machine is a special type of sewing machine that cuts the raw edges of the seam and creates overlocked stitches around the edge as it is sewn. This is a very professional way to finish a seam, and serged seams are found on most store-bought clothing. A lot of the time a lock machine stitch is also individually used as a stretch stitch. On your normal sewing machine you can create it mainly with a narrow and short zigzag stitch on the edge of the fabric or a 1 cm from the edge. If you have a tricot stitch or overlock stitch options then you can use that 1 cm from the edge.  
+7. **Stretch seam:**  The above stitches are mainly for woven fabrics like jeans, shirts, blouses and jackets and coats. But a lot of our garments are knits. Running stitches are not stretchy and will break. Stretchy seams are preferably created by a serger/lock machine. A Lock machine is a special type of sewing machine that cuts the raw edges of the seam and creates overlocked stitches around the edge as it is sewn. This is a very professional way to finish a seam, and serged seams are found on most store-bought clothing. A lot of the time a lock machine stitch is also individually used as a stretch stitch. On your normal sewing machine you can create it mainly with a narrow and short zigzag stitch on the edge of the fabric or a 1 cm from the edge. If you have a tricot stitch or overlock stitch options then you can use that 1 cm from the edge. 

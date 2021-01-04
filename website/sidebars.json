@@ -1,7 +1,7 @@
 {
   "docs": {
     "Start": ["start/intro", "start/problem"],
-    "Basics": ["basics/intro", "basics/fibres", "basics/fabrics", "basics/sewing", "basics/finishing"],
+    "Basics": ["basics/intro", "basics/fibres", "basics/fabrics", "basics/sewing", "basics/seams"],
     "1. Care": ["care/intro"],
     "2. Repair": ["repair/intro"],
     "3. Upgrade": ["upgrade/intro"],
