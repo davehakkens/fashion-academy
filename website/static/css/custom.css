@@ -16,8 +16,7 @@ padding: 60px 0;
 }
 
 .button {
-  background: #d02431;
-  border: 4px solid #8d000a;
+  background: #F82003;
   border-radius: 5px;
   color: #fff;
   padding: 15px 20px;
@@ -25,12 +24,15 @@ padding: 60px 0;
 
 .navigationSlider .slidingNav ul li a {
   position: fixed;
-  height: 80px;
-  top: 0px;
-  border-left: 1px solid black;
-  right: 0px;
-  width: 100px;
-  color: black;
+  top: 25px;
+  border: 2px solid white;
+  right: 20px;
+  color: white;
+  border-radius: 8px;
+}
+
+.navigationSlider .slidingNav ul li a:hover {
+    background-color: #ffffff7a;
 }
 
 .navigationSlider .slidingNav ul li {
@@ -46,9 +48,8 @@ padding: 60px 0;
 }
 
 .fixedHeaderContainer{
-    background-color: #edeadf;
+    background-color: #F82003;
     height:80px;
-    border-bottom: 1px solid black;
 }
 
 

@@ -11,11 +11,11 @@
       "basics/fibres": {
         "title": "Fibres"
       },
-      "basics/finishing": {
-        "title": "Finishing"
-      },
       "basics/intro": {
         "title": "Introduction"
+      },
+      "basics/seams": {
+        "title": "Seams"
       },
       "basics/sewing": {
         "title": "Sewing"
@@ -35,6 +35,9 @@
       "other/join": {
         "title": "Join us!"
       },
+      "patreon": {
+        "title": "Help to unlock"
+      },
       "repair/intro": {
         "title": "Repair your clothes"
       },
@@ -45,7 +48,7 @@
         "title": "Hello ✋"
       },
       "start/problem": {
-        "title": "Whats the problem?"
+        "title": "Whats the problem? (to finalize)"
       },
       "upgrade/intro": {
         "title": "Upgrade your clothes"

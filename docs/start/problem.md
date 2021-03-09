@@ -1,6 +1,6 @@
 ---
 id: problem
-title: Whats the problem?
+title: Whats the problem? (to finalize)
 ---
 
 For several years the fashion industry has been under fire for the problems they create. Exploiting workers, sweatshops, overproduction, pushing consumption, polluting rivers etc. How is this still happening these days, why isn’t this fixed? Well the fashion industry is complex, its has a global supply chain and is trend related. Which is a model for income for many busniness around the world. There is a constant push for new clothes and collections. But lets dive into it step by step, start with the production

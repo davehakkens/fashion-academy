@@ -13,5 +13,6 @@ No worries the more you sew the better you get at it. Later in the other videos,
 |-------|---------|
 |Introduction|This is this page, not very exciting :)|
 |Basics of Fibres| Understand the difference between fibres. They can be plant, synthetic or animal based|
-|Basics of Fabrics|See the 5 categories of fabrics|
-|Basics of Sewing| Sewing, machines & stitches|
+|Basics of Fabrics|See the 5 categories of different fabrics|
+|Basics of Sewing| All about sewing, machines, needles & stitches|
+|Basics of Seams| And overview of the different seams you can use.|
