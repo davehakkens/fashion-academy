@@ -48,6 +48,8 @@ So, you have the tools and the yarn, which stitch do you use? Below we discuss t
 ## Stitching by Hand 
 Stitching by hand can be used for hard to reach places or when you don’t have a sewing machine nearby. Needle setup: Put your yarn/thread through the eye of the needle and leave the end of the thread in your hand while you hold the needle. Only double lace the thread when you need to sew on a button or beads for extra strength.
 
+<img src="../assets/basics/sewing_5.1.png"/>
+
 ### One or Two-Loop Backstitch Knot:
 A stitch to start and to finish your main stitch. On the sewing machine, it is called a Back Stitch.
 1. To make a One-Loop backstitch knot, make a small backstitch on top of your last stitch. By picking one thread of the main fabric.
