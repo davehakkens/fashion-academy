@@ -21,7 +21,6 @@ Even after a lot of caring and repairing, sometimes your clothes just need a big
 
 
 
-
 # <img src="../assets/icons/upgrade_resize.png" width="30" height="30"/> Resize
 Resizing your garment is an incredibly useful skill. If you know how to do this, you can make anything your size, even your mum or dad's funky '60s clothes. So welcome to ‘Resizing’: the skill that makes everything wearable.
 

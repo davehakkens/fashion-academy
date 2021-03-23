@@ -4,10 +4,7 @@ Prism.languages.docker = {
 		lookbehind: true
 	},
 	'string': /("|')(?:(?!\1)[^\\\r\n]|\\(?:\r\n|[\s\S]))*\1/,
-	'comment': {
-		pattern: /#.*/,
-		greedy: true
-	},
+	'comment': /#.*/,
 	'punctuation': /---|\.\.\.|[:[\]{}\-,|>?]/
 };
 
