@@ -3,7 +3,7 @@ id: intro
 title: Repair your clothes
 ---
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/Rdfr1IYgkUA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/x5lcUh7Svgo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 No matter how much you take care of your garments, they are there to be worn, so accidents can always happen. A small fix can create a new life for your garment. The act of repairing itself reminds us that making something takes time, that it’s worth mending for its value and for who made it. In this chapter we are going to show the basics of repairing, what techniques there are. How to choose the best technique, some examples and in the video we will repair a few things.

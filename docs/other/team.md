@@ -1,7 +1,7 @@
 ---
 id: team
-title: The people behind V1.
+title: The team
 ---
 
-# Coming Soon
-Real soon
+# Here is the team behind V1.
+Coming soon. Real soon
