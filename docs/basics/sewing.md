@@ -171,3 +171,5 @@ The bobbin underneath might be laced in a counter-clockwise direction or is not 
 The fabric is either too thick or there is a knot underneath, the bobbin underneath is not well placed or you didn’t lift down the presser foot. Lift your foot, use the dial and slowly pull the fabric out. Check your machine and the bobbin case, place it in again and restart.
 8. **Stitch is never straight.**
 Use the ruler on your needle plate, this also spares time drawing a sewing line on your fabric. On most sewing machines, there are guidelines in the needle plate. This is the distance from the needle to the edge of the fabric, which can be 1, 1.5 or 2cm. It works as a constant ruler to stitch straight from the edge. If you don’t have the lines on your needle plate, you can put a tape 1 cm from the needle.
+
+**If at this point you have any questions about the basics make sure to visit our [community chat](https://discord.com/invite/SSBrzeR) on Discord. Many skilled and likeminded people in there :)**

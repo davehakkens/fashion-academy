@@ -62,3 +62,5 @@ Certifications for leather are needed as the processes are very labour and chemi
 Since humankind exists we are using furs from animals. Animals where fur from is used: Antilope, Astrakan, Beaver, Karakul, Squirrels, Rabbits, Lamb, Mole Rat, Muskrat, Marmot, Minks, Coypu, Ocelot, Opossum, Otter, Persian Lamb Fur, Petit Gris, Sealskin, Skunk, Foal, Foxes, Whitecoat and Wolf. Fur is and was mainly worn by necessity in colder climates, but since the last century with textile improvements and climate change, fur is in most places around the world, only used as a proof of wealth. In the ’80s fur came under scrutiny and as an alternative imitation fur came about. This is a cheaper plastic, vegan version and the imitations are getting better and better.
 
 <img src="../assets/basics/fabrics_05.png" />
+
+**If at this point you have any questions about the basics make sure to visit our [community chat](https://discord.com/invite/SSBrzeR) on Discord. Many skilled and likeminded people in there :)**

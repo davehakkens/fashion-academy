@@ -3,10 +3,12 @@ id: intro
 title: Repair your clothes
 ---
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/x5lcUh7Svgo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/TnxGHRlevlQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 No matter how much you take care of your garments, they are there to be worn, so accidents can always happen. A small fix can create a new life for your garment. The act of repairing itself reminds us that making something takes time, that it’s worth mending for its value and for who made it. In this chapter we are going to show the basics of repairing, what techniques there are. How to choose the best technique, some examples and in the video we will repair a few things.
+
+> Note: This is our first version of the Academy. We have many more topics and techniques document, it will grow overtime. If you want to support us make sure to join [Patreon](https://www.patreon.com/one_army).
 
 # Overview of our favorite techniques
 
@@ -135,3 +137,5 @@ A zipper repair requires more sewing skills. You can try it out yourself, but yo
 Sometimes there is no need to replace the entire zipper, but perhaps just a part is broken. We show a few examples below. In this case, it's useful to understand the components in the zipper and what to replace. Below you can see the parts. If you replace a zipper and you know how to do it, be aware that you need to have the right zipper length, not the zipper lint length. And that you have Close-ended zippers and Open-ended zippers. If the zipper is used for a bag it needs a Close-ended Zipper that has a closed stop box or no finish at all. With a closed stop box, the zipper ends to that point and can’t be separated. Open-ended Zippers are more used in jackets or other garments where you need to go in and out of and where the slider can come off the rails and back on.
 
 <img src="../assets/repair/zippers_02.png"/>
+
+**If you have any questions about this topic sure to visit our [community chat](https://discord.com/invite/SSBrzeR) on Discord. Many skilled and likeminded people in there :)**

@@ -85,3 +85,5 @@ Synthetic fibres, also known as oil-based fibres, are fibres that consist of art
 
 
 **Elastane/Spandex/Lycra:**  Elastane (general term)/ Spandex (working term: DuPont) and Lycra (branded name Dupont) all have the same process. This material is super stretchy and is very often mixed in with other fibres to make the clothing more elastic, both natural and other synthetic materials. Polyurethane elastomer, called elastomer for short, is usually processed as monofilament and has a built-in stretch. So it is not a natural rubber or a crimped synthetic material. Elastomers have better properties than rubber threads in most respects. Rubber has therefore largely been replaced by elastomers in the textile industry. Elastomers are lighter in weight, stronger, more durable and can be injected into thin filaments. Biggest exporters: China, U.S., India, Pakistan and Brazil.
+
+**If at this point you have any questions about the basics make sure to visit our [community chat](https://discord.com/invite/SSBrzeR) on Discord. Many skilled and likeminded people in there :)**

@@ -4,11 +4,13 @@ title:  Upgrade your clothes
 ---
 
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NEJ5ZHis6yA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/IO9VlYliXcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
 Even after a lot of caring and repairing, sometimes your clothes just need a bigger upgrade. Stains or rips could be too big to fix or you want to change up your style. The garment can still be used, so don't throw it out! There is a stage between recycling or swapping it. Of course, repairing the issue is the first step, but you can do a few more things before saying goodbye to it. Time to upgrade! You can Resize, Remake, Recolour or Decorate your clothes to give them a new and fresh look. We will break everything down further in these exact sections.
+
+> Note: This is our first version of the Academy. We have many more topics and techniques document, it will grow overtime. If you want to support us make sure to join [Patreon](https://www.patreon.com/one_army).
 
 # Techniques
 | Upgrade  |Description  |
@@ -135,3 +137,5 @@ Transfer printing is quite an easy way to do it if you only need one garment pri
 **Embroidery**
 Another way of decorating your garment is by using Embroidery stitches, of course, this can also be adapted over a rip or a stain and used as a way of repairing. With Embroidery, you can create whatever you want in stitches and create 3D shapes by using wrap stitches and knot stitches. There is a wide variety of embroidery stitches by hand and by machine. We like to use the chain stitch, as you can write your initials with it, or to decorate already existing top stitches on a coat.
 <img src="../assets/upgrade/upgrade_decorate_embroid.jpg" width="400" height="400"/>
+
+**If you have any questions about this topic sure to visit our [community chat](https://discord.com/invite/SSBrzeR) on Discord. Many skilled and likeminded people in there :)**

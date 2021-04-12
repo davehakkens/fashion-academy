@@ -41,3 +41,5 @@ A Bound Seam is perfect for the edges of the fabric where you don’t have much 
 <img src="../assets/basics/seams_07.png"/>
 ## 7. Stretch seam
 The above stitches are mainly for woven fabrics like jeans, shirts, blouses and coats but a lot of garments are knits. Running stitches are not stretchy and will break. Stretchy seams are preferably created by a serger/lock machine. A Serger/Lock machine is a special type of sewing machine that cuts the raw edges of the seam and creates overlocked stitches around the edge as it is sewn. This is a very professional way to finish a seam, and serged seams are found on most store-bought clothing. A lot of the time a lock machine stitch is also individually used as a stretch stitch. On your normal sewing machine, you can create it mainly with a narrow and short zigzag stitch on the edge of the fabric or 1 cm from the edge. If you have a tricot stitch or overlock stitch options, then you can use those 0,5 cm from the edge.
+
+**If at this point you have any questions about the basics make sure to visit our [community chat](https://discord.com/invite/SSBrzeR) on Discord. Many skilled and likeminded people in there :)**

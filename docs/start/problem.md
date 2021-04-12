@@ -101,3 +101,13 @@ If you want to dive deeper into topics around the fashion industry and its compl
 Activism platform that creates awareness around the sources, the makers and the afterlife of clothing and demands to act towards brands.
 
 [↩️ Read](https://www.fashionrevolution.org/ )
+
+
+Or
+
+If you want to dive deeper into topics around the fashion industry and its complexity. These researchers, writers and changemakers are good ones to follow. We hope these sources only support you to do more, instead of overwhelm you. It’s a learning process and we learn from you as well and we would love to have more conversations on our Discord. Link to Discord?
+
+[@theorispresent](https://www.instagram.com/theorispresent/), [@ajabarber](https://www.instagram.com/ajabarber/), [@fash_rev](https://www.instagram.com/fash_rev/),[@theslowfactory](https://www.instagram.com/theslowfactory/), [@fibershed](https://www.instagram.com/fibershed), [@aditimayer](https://www.instagram.com/aditimayer/), [@celinesceline](https://www.instagram.com/celinecelines/), [@cleanclothescampaign ](https://www.instagram.com/cleanclothescampaign/), [@fashion_act_now](https://www.instagram.com/fashion_act_now/)
+
+
+**If you have any questions about this topic or have something to discuss make sure to visit our [community chat](https://discord.com/invite/SSBrzeR) on Discord. Many skilled and likeminded people in there :)**

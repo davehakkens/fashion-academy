@@ -3,12 +3,13 @@ id: intro
 title: Care for your clothes
 ---
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/x7R9xCrkDyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/kWFuBTWjg4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 # 1. Stains
 Often garments are thrown away because stains were impossible to remove, but there is always something you can do. Ideally, you act on a stain as soon as it happens! Identify the spot and check what is necessary to remove it. You can easily replace the heavy chemical detergent for more natural ingredients, consisting of single elements. With these are the 9 ingredients, you can replace all your common chemical stain removers.
 
+> Note: This is our first version of the Academy. We have many more topics and techniques document, it will grow overtime. If you want to support us make sure to join [Patreon](https://www.patreon.com/one_army).
 
 <img src="../assets/care/care_products.png"/>
 
@@ -188,3 +189,5 @@ To keep the blacks as vibrant as possible you can use vinegar. If you don’t li
 # 4. Checklist before washing
 1. **Pockets:** You don’t want any ‘to-do list paper pulp’ on your clothes that takes an hour to remove. Or a screw that rips your pocket (this sounds like this has happened to me before). So empty your pockets before you wash your clothes.
 2. **Zippers and buttons:** If you don’t close zippers they zipper might be stuck into the other garment, and could make a little rip in fragile fabrics. Open all buttons and hooks to prevent them from ripping off the fabric.
+
+**If you have any questions about this topic sure to visit our [community chat](https://discord.com/invite/SSBrzeR) on Discord. Many skilled and likeminded people in there :)**
