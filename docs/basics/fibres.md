@@ -21,7 +21,7 @@ So what are fibres and why is it important to know what makes up your clothes? F
 ## 🐑 Animal based Fibres
 Animal-based fibres are known as the Protein Fibres, which are fibres mainly based on the fur, hair or excretions (like cocoons) from Animals. Fur and leather are animal-based but are not fibres, they are fabrics. Instead, it is a natural material that is used for clothing and needs a different process, therefore it is not in this overview. We discuss leather and its alternatives shortly in the Basics of Fabrics.
 
-<img src="../assets/basics/fibres_01.jpg" />
+<img src="../assets/basics/fibres_02.jpg" />
 
  **Wool:** Wool is primarily the hair of sheep. There are 1000s of different sheep breeds, but the most common wool is fine wool from the Merino sheep. Cheviot sheep wool is often used as it is firmer and a Crossbred sheep, a breed between the two, is also used frequently. The quality and the curl of the wool depends on the part of the body of the sheep. Lambswool comes from young sheep and is generally much softer and finer than from older sheep. Wool is a popular fibre as its structure intersects, also known as felting.
 
@@ -44,7 +44,7 @@ Animal-based fibres are known as the Protein Fibres, which are fibres mainly bas
 ## 🌱 Plant based Fibres
 Plant-based are also known as the Cellulose Fibres. The name already says it, as the fibres come from Plants. Plant-based fibres come from the fluff of seed cases, leaves, husk or the stem or bark.
 
-<img src="../assets/basics/fibres_02.jpg" />
+<img src="../assets/basics/fibres_01.jpg" />
 **Cotton:**  Most common plant-based fibre is Cotton. Cotton is the seed fluff of the cotton plant, which comes out when the seeds are ripe. The quality depends on the length, gloss, and colour of the cotton and what country it is from and the type of cotton plant. Biggest exporters: U.S.A, Uzbekistan, China, India, Brazil, Pakistan and Turkey. Organic Cotton: India, China, Turkey and Kyrgyzstan.
 
 
