@@ -20,7 +20,7 @@ Hi good to see you here! This is the academy section of https://fixing.fashion. 
 ### Join the movement
 
 #fixingfashion relies heavily on people joining the movement, we will continue to create the tutorials and knowledge. But we need people actually using the information. There are 2 ways to do this:
-1. **Use the knowledge.** Repair and upgrade your clothes. Make sure clothes get used as long as possible. Join on [Discord](https://discord.com/invite/cGZ5hKP) if you need help or have questions.
+1. **Use the knowledge.** Repair and upgrade your clothes. Make sure clothes get used as long as possible. Join on [Discord](https://discord.com/invite/SSBrzeR) if you need help or have questions.
 2. **Promote.** Share and inspire others to join the movement. Show the world with pride that you care for your clothes. Use #fixingfashion on Instagram and spread it around. This is very important for the movement to grow.
 
 
