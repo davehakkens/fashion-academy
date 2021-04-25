@@ -43,4 +43,4 @@ https://docusaurus.io
 Different parts of this project are under different license conditions
 
 - **Content:** All our content is licensed under Creative Commons Attribution - Sharealike International 4.0. You can read a summary of that [here](https://creativecommons.org/licenses/by-sa/4.0/), or check out the full [license](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
-- **Code:** Code license for the academy site is GPL-3.0 License.
+- **Code:** Code license for the academy site is [GPL-3.0 License](https://github.com/ONEARMY/fixing-fashion-academy/blob/master/LICENSE).
