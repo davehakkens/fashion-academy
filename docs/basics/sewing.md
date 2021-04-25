@@ -10,26 +10,25 @@ Before you start sewing, you need to know what yarn you are going to sew with.
 
 
 # Tools
-Some tools you really can’t work without for sewing are.
+Some tools you really can’t work without for sewing are:
 <img src="../assets/basics/sewing_01.jpg"/>
 1. Seam Ripper: Seam Rippers are to remove stitches. This tool is to undo all the mistakes you may make or the seams of a garment. It has a V shape where the inside can be used as a knife to rip the thread.
 2. A good pair of sharp scissors: These are extremely crucial. If you sew a lot you know how important a pair of sharp scissors are. Possibly as important as a good, working sewing machine.
 3. Measurement Tape & Set Square: Measurement tape is needed to measure body shaped surfaces. A set square helps measure out a patch or a pattern, with 90 degrees or any sharp corners.
 4. Pins & A Pin Cushion: Lazy sewers don’t like them, but in the end, you work faster with them. They keep everything in its place and you don’t risk having to redo your stitches. We recommend the pins with a round-tipped glass head as they are easier to use. It is nice to keep track of them, whether that be in a box or pinned into a little pillow or even easier a magnet. Magnets are great to use as you can pick up fallen pins with one pass over.
-5. Pencil: For making patterns
+5. Pencil: For making patterns.
 6. Embroidery scissors: Sometimes it can be hard to cut a thread really short with a normal scissors, unless it is still sharp. This one is also nice to have on the way and need a repair.
 7. Sewing thread: Universal yarn can be Cotton or Polyester based with or without coating or being mercerised cotton. Cotton based yarn is nice for a repair technique called Sashiko, but you don’t want to use it for seams as it shrinks in the washing machine. The small straight spools are for the sewing machine, the cone spools are used for the lock machines and are too big for a normal sewing machine.
 8. Embroidery Ring and/or Darning Egg/Mushroom: Not crucial for sewing jobs, but are nice for repair jobs. A darning egg is preferred for the darning technique instead of the embroidery ring as you have a base underneath that keeps it tight. Embroidery ring is preferred for decorating and edge mending.
 9. Markers Chalk: Instead of using a pen or a normal graphite pencil on your fabric, it is good to have a piece of marker chalk. The chalk is used to draw where you are going to cut or sew and does not leave marks or stains.
-10. Darning Egg: This is a help if you do a lot of Darning work. Place the egg under the hole and it makes sure you have enough tension on the fabric to repair it and you don’t double stitch it.
+10. Darning Egg: This is helpful if you do a lot of Darning work. Place the egg under the hole and it makes sure you have enough tension on the fabric to repair it and you don’t double stitch it.
 11. Needles: There are a huge variety of needles, but with every how-to, we will tell you which ones are best for the job. Small-eyed needles are used for delicate fabrics. Bigger eyed needles are used for strong durable fabrics. Long needles are mostly for embroidery and repairing techniques. Short thin needles are for normal sewing. Middle-fat needles are for thick/leather fabrics. All hand sewing needles have the eye at the top of the needle.
 
 
 <img src="../assets/basics/sewing_02.png"/>
 
-Machine needles: These have the eye at the bottom. Machine needles follow the same standards as hand sewing needles but are numbered. The higher the number, the bigger and stronger the needle. For an upcoming technique, you will need felting needles. These are needles that have intersecting hooks that felt the wool fibres together, but we will explain further in the Repair section.
+Machine needles: These have the eye at the bottom. Machine needles follow the same standards as hand sewing needles but are numbered. The higher the number, the bigger and stronger the needle. For an upcoming technique, you will need felting needles. These are needles that have intersecting hooks that felt the wool fibres together, but we will explain further in the Repair section. For machine needles, the convention is delicate fabrics: 60-75, standard fabrics: 80-90 and heavy-duty fabrics: 100-120.
 
-For machine needles, the convention is delicate fabrics: 60-75, standard fabrics: 80-90 and heavy-duty fabrics: 100-120.
 Needle felt needles: For the Needle Felting patch, you need  different kinds of needles. These needles have intersected hooks that push the fibres, mainly from wool, into each other creating felt.
 
 <img src="../assets/basics/sewing_03.png"/>
@@ -37,7 +36,7 @@ Needle felt needles: For the Needle Felting patch, you need  different kinds of 
 
 Sewing Machine: A machine is necessary if your patch requires strong stitches or when you need to finish fabric neatly. A modern machine may not produce a higher quality stitch but may have more functions and options that can save you more time. If your machine can already do some strong stitching with a straight or zigzag stitch you are set. Old machines can be just as good as new ones as long as you take care of them.
 
-> Note: Always check if the needle is blunt with a test fabric because a blunt needle might cause damage to the fabric or skip the stitches.
+> Note: Always check if the needle is blunt with a piece of test fabric because a blunt needle might cause damage to the fabric or skip stitches.
 
 <img src="../assets/basics/sewing_04.png"/>
 
@@ -45,7 +44,7 @@ Sewing Machine: A machine is necessary if your patch requires strong stitches or
 So, you have the tools and the yarn, which stitch do you use? Below we discuss the best stitches for each type of repair job or upgrading technique. There are two different methods of sewing: hand or machine. Neither is superior. It depends on what the fabric is (Knitted or Woven, Delicate or Durable, etc.) and where your stitch is placed on the garment.
 
 
-## Stitching by Hand 
+## Stitching by Hand
 Stitching by hand can be used for hard to reach places or when you don’t have a sewing machine nearby. Needle setup: Put your yarn/thread through the eye of the needle and leave the end of the thread in your hand while you hold the needle. Only double lace the thread when you need to sew on a button or beads for extra strength.
 
 <img src="../assets/basics/sewing_5.1.png"/>
@@ -95,7 +94,7 @@ A stitch identified by its criss-cross stitches, this versatile stitch is great 
 <img src="../assets/basics/sewing_09.png"/>
 
 ### Overcast Stitch:
-With these stitches, you can finish the edges of a garment and secure it from unravelling. It can also be used as a visible aesthetic Stitch repair or to make a garment smaller. This is a good stitch for small knitted fabrics like t-shirts or to reattach Velcro or a pocket that has a loose corner.
+With these stitches, you can finish the edges of a garment and secure it from unravelling. It can also be used as a visible aesthetic stitch repair or to make a garment smaller. This is a good stitch for small knitted fabrics like t-shirts or to reattach Velcro or a pocket that has a loose corner.
 1. Start with a double loop stitch 0.5 cm away from the rip or the edge.
 2. Bring the needle through the other side of the rip. So the yarn goes over the edge. With each stitch, the needle should always come through in the same direction. Push the needle a little bit further from your former stitch. As you add stitches, the thread should be wrapping around the edge of the material. Keep the same distance between the stitches for a neat look.
 
@@ -128,7 +127,7 @@ Stitches by machine are a little bit different as they are seen as functions of 
 | Icon    | Description |
 |---------|--------|
 |<img src="../assets/basics/sewing_12.png" width="60px"/> | Backstitch: this is the reverse button on your sewing machine, as it retraces the stitch. This is to secure a stitch from unravelling and is applied at the beginning and the end of the stitch. You can also apply this for the Stitch Repair or Zigzag Repair. |
-| <img src="../assets/basics/sewing_13.png" width="60px"/>| Running Stitch: Is the most known stitch on every sewing machine, otherwise known as the straight stitch. This stitch is used for almost every seam, stitch, patch or hem. If you want to repair a seam, you can simply re-adjust the seam by going over the old one with the running stitch. As a hem, the stitch is used as a top-stitch or double folded hem, seen on jeans finishing. If you want to Resize your jeans this is a good finish.|
+| <img src="../assets/basics/sewing_13.png" width="60px"/>| Running Stitch: Is the most known stitch on every sewing machine, otherwise known as the straight stitch. This stitch is used for almost every seam, stitch, patch or hem. If you want to repair a seam, you can simply re-adjust the seam by going over the old one with the running stitch. As a hem, the stitch is used as a top-stitch or double folded hem, seen on jeans finishing. If you want to resize your jeans this is a good finish.|
 | <img src="../assets/basics/sewing_14.png" width="60px"/>| Zigzag Stitch: A stitch for stretchy or knitted garments as the zigzag stitch stretches with the fabric. It is also great to strengthen a patch on a woven fabric. A closed spaced zigzag is a nice way to finish the edge of a garment.|
 | <img src="../assets/basics/sewing_15.png" width="60px"/>| Tricot stitch: Than modern machines consist of Tricot/Stretch stitches. A great stitch for the seams of a knit and finishing the hem, if you don’t have a Double Needle. It’s, primarily, used to create stretchy seams for knits. Check for this one in the manual of your machine as well, as the stitches and functions differ.|
 | <img src="../assets/basics/sewing_16.png" width="60px"/>| Buttonhole: Check for this function in your sewing machine manual as well. A buttonhole foot and button making function are required on your sewing machine. If you don’t have a sewing machine or this function, check out the hand sewing options. The buttonhole should be 0.2mm larger than the button. When you are happy with your buttonhole stitch, you can rip the fabric in between the stitching with a seam ripper. Redoing a buttonhole with this function is not that easy, and we advise to repair by hand.|
@@ -154,7 +153,7 @@ Stitches by machine are a little bit different as they are seen as functions of 
 |Tricot stitch      |       -   |     ✔/-     |    -      |     ✔     |     ✔     |     ✔      |
 
 
-# Troubleshoot list for Sewing Machine
+# Troubleshooting list for Sewing Machine
 1. **The machine is skipping stitches.**
 If this is happening, make sure the needle is correctly inserted and it is neither blunt nor bent. The bobbin underneath might be placed counter-clockwise and needs to be clockwise. Therefore it can’t make the loop properly.
 2. **The stitches are irregular.**
@@ -170,6 +169,6 @@ The bobbin underneath might be laced in a counter-clockwise direction or is not 
 7. **The machine is stuck.**
 The fabric is either too thick or there is a knot underneath, the bobbin underneath is not well placed or you didn’t lift down the presser foot. Lift your foot, use the dial and slowly pull the fabric out. Check your machine and the bobbin case, place it in again and restart.
 8. **Stitch is never straight.**
-Use the ruler on your needle plate, this also spares time drawing a sewing line on your fabric. On most sewing machines, there are guidelines in the needle plate. This is the distance from the needle to the edge of the fabric, which can be 1, 1.5 or 2cm. It works as a constant ruler to stitch straight from the edge. If you don’t have the lines on your needle plate, you can put a tape 1 cm from the needle.
+Use the guide on your needle plate, this also saves time drawing a sewing line on your fabric. On most sewing machines, there are guidelines on the needle plate. This is the distance from the needle to the edge of the fabric, which can be 1, 1.5 or 2cm. It works as a constant ruler to stitch straight from the edge. If you don’t have the lines on your needle plate, you can put a piece of tape 1 cm from the needle.
 
-**If at this point you have any questions about the basics make sure to visit our [community chat](https://discord.com/invite/SSBrzeR) on Discord. Many skilled and likeminded people in there :)**
+**If at this point you have any questions about the basics make sure to visit our [community chat](https://discord.com/invite/SSBrzeR) on Discord. Many skilled and likeminded people are in there :)**
