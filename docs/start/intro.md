@@ -34,6 +34,6 @@ Fixing Fashion is an open source project. That's how we work. How it comes natur
 Different parts of this project are under different license conditions
 
 - **Content:** All our content is licensed under Creative Commons Attribution - Sharealike International 4.0. You can read a summary of that [here](https://creativecommons.org/licenses/by-sa/4.0/), or check out the full [license](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
-- **Code:** Code license for the academy site is GPL-3.0 License.
+- **Code:** Code license for the academy site is [GPL-3.0 License](https://github.com/ONEARMY/fixing-fashion-academy/blob/master/LICENSE).
 
 If you want to contribute to the project you can help us code the [academy](https://github.com/ONEARMY/fixing-fashion-academy), get active on [discord](https://discord.com/invite/SSBrzeR) or check different ways you can [support](https://preciousplastic.com/support-now) the project.
