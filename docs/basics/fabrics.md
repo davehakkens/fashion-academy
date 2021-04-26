@@ -18,10 +18,10 @@ There are different ways to spin the fibres into yarn, but we will not go too de
 
 
 ### Knitted
-Knitted fabrics are characterised by their stretchiness and their comfort. Let say the opposite of woven fabrics is knitted fabrics. Knitted fabrics are created by loops that interlock with each other, and therefore secure each other. If one loop breaks the row vertically and horizontally can unravel.
+Knitted fabrics are characterised by their stretchiness and their comfort. Let's say the opposite of woven fabrics is knitted fabrics. Knitted fabrics are created by loops that interlock with each other, and therefore secure each other. If one loop breaks the row vertically and horizontally can unravel.
 <img src="../assets/basics/fabrics_01.png" />
 
-Because of these meandering loops, the fabric can easily stretch in different directions giving knitted fabrics greater elasticity than woven fabrics. Depending on the yarn and knitting pattern, knitted garments can stretch by 600%. For this reason, knitting is believed to have been developed for garments that must be elastic or stretch in response to the wearer's motion, such as sportswear. One to remember by repairing is to secure the broken loops first.
+Because of these meandering loops, the fabric can easily stretch in different directions giving knitted fabrics greater elasticity than woven fabrics. Depending on the yarn and knitting pattern, knitted garments can stretch by 600%. For this reason, knitting is believed to have been developed for garments that must be elastic or stretch in response to the wearer's motion, such as sportswear. One thing to remember when repairing is to secure the broken loops first.
 
 The thickness of the yarn dictates the size of the knit. A sweater uses thicker yarn for warmth and therefore has a larger knit compared to a t-shirt, which has a finer knit (Tricot knit or a jersey knit).
 
@@ -32,14 +32,13 @@ Explanation of the illustration: With every woven fabric, the weave consists of 
 
 <img src="../assets/basics/fabrics_02.png" />
 
-Weave patterns can differ depending on how many times the weft yarn goes over and under the warp. Therefore you can create variations within the plain weave like in the image
-, like a twill weave in jeans, satin weave in a blouse or a pile weave like Corduroy.
+Weave patterns can differ depending on how many times the weft yarn goes over and under the warp. Therefore you can create variations within the plain weave like in the image, like a twill weave in jeans, satin weave in a blouse or a pile weave like Corduroy.
 
 Woven fabric is any textile formed by weaving. Woven fabrics are created on a loom or a loom machine. A way to characterise woven fabrics is to follow the horizontal or vertical lines that are interlacing each other. Woven fabrics don’t stretch much or not at all vertically and horizontally. They will only stretch diagonally on the bias directions (between the warp and weft directions) or when there is a percentage of elastane yarn added into the fabric, this is often the case for skinny jeans. If one yarn breaks it is going to fray, commonly horizontally.
 
 
 
-### Non-wovens 
+### Non-wovens
 Non-woven fabrics are created by fibres or filaments that are composed together by chemical, thermal or mechanical treatments. These are not composed into yarn first but straight into fabrics. The fabrics are thick and isolating. There are three main non-wovens fabrics:
 <img src="../assets/basics/fabrics_03.png" />
 
@@ -59,8 +58,8 @@ Certifications for leather are needed as the processes are very labour and chemi
 
 
 ### Fur
-Since humankind exists we are using furs from animals. Animals where fur from is used: Antilope, Astrakan, Beaver, Karakul, Squirrels, Rabbits, Lamb, Mole Rat, Muskrat, Marmot, Minks, Coypu, Ocelot, Opossum, Otter, Persian Lamb Fur, Petit Gris, Sealskin, Skunk, Foal, Foxes, Whitecoat and Wolf. Fur is and was mainly worn by necessity in colder climates, but since the last century with textile improvements and climate change, fur is in most places around the world, only used as a proof of wealth. In the ’80s fur came under scrutiny and as an alternative imitation fur came about. This is a cheaper plastic, vegan version and the imitations are getting better and better.
+Since humankind exists we have been using furs from animals. Animals where fur from is used: Antilope, Astrakan, Beaver, Karakul, Squirrels, Rabbits, Lamb, Mole Rat, Muskrat, Marmot, Minks, Coypu, Ocelot, Opossum, Otter, Persian Lamb Fur, Petit Gris, Sealskin, Skunk, Foal, Foxes, Whitecoat and Wolf. Fur is and was mainly worn by necessity in colder climates, but since the last century with textile improvements and climate change, fur is in most places around the world, only used as a proof of wealth. In the ’80s fur came under scrutiny and as an alternative imitation fur came about. This is a cheaper plastic, vegan version and the imitations are getting better and better.
 
 <img src="../assets/basics/fabrics_05.png" />
 
-**If at this point you have any questions about the basics make sure to visit our [community chat](https://discord.com/invite/SSBrzeR) on Discord. Many skilled and likeminded people in there :)**
+**If at this point you have any questions about the basics make sure to visit our [community chat](https://discord.com/invite/SSBrzeR) on Discord. Many skilled and likeminded people are in there :)**
