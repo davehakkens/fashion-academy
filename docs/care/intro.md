@@ -38,8 +38,8 @@ Below is a chart that shows a few stains and whether you can remove them. Scroll
 |🧈 Grease/oil/Butter|Cold water|Ox gall soap|✔|✔|✔|
 |⚙️    Rust|Cold water|Salt + Lemon juice|✔|-|✔|
 |💦 Sweat|Cold water|Baking Soda/Washing Soda (GreenhubⒸ)|✔|-|✔|
-|🖊 Ballpoint|Vinegar|Toothpaste|✔|-|✔|
-|🖋 Pen Ink|Vinegar|Toothpaste|✔|-|✔|
+|🖊 Ballpoint|Vinegar + cold water |Toothpaste|✔|-|✔|
+|🖋 Pen Ink + cold water|Vinegar|Toothpaste|✔|-|✔|
 |☕️ Coffee|Cold water|Baking Soda + Lemon|✔|✔|✔|
 |🦷 Toothpaste|Hot water|-|✔|✔|✔|
 |🍓 Fruit |Hot water|Lemon + Vinegar |✔|✔|✔|
@@ -63,7 +63,7 @@ Below is a chart that shows a few stains and whether you can remove them. Scroll
 **💦 Sweat:** Depending on how old the stains are, is how hard your mixture needs to be. Quite new stains can be removed with Baking Soda. Cover the stains with Baking soda and a few drops of hydrogen peroxide, rub it with a sponge or a toothbrush. Let it sit for 30 minutes. Rinse it out by hand in warm water. If the whole garment is yellow or the stains are pretty old, you can make a warm water bath with Washing soda, let it cool down. Leave the shirt overnight if the garment is white. If it is coloured leave it in for an hour.
 
 
-**🖊 Ballpoint:**  Ballpoint is one of the hardest stains and needs to be pretreated before you put it in the washing machine. You can use some hydrogen peroxide, but that is quite heavy for the fibre if used in large quantities, definitely for Woollen fibres. Toothpaste works fine as well and is a bit more natural if the stain isn't too heavy. Use paste-based toothpaste that contains glycerol, sodium fluoride and is naturally based without any flakes. If not, not much happens to the stain. You may need to repeat this process depending on how heavy the stain is. Rub a good amount of toothpaste with a toothbrush on the stain and let it sit for 10 minutes. Then rub it in again and rinse off the toothpaste with cold water. Repeat this till it is fully gone.
+**🖊 Ballpoint:**  Ballpoint is one of the hardest stains and needs to be pretreated before you put it in the washing machine. You can use some hydrogen peroxide, but that is quite heavy for the fibre if used in large quantities, definitely for Woollen fibres. Toothpaste works fine as well and is a bit more natural if the stain isn't too heavy. Use paste-based toothpaste that contains glycerol, sodium fluoride and is naturally based without any flakes. If not, not much happens to the stain. You may need to repeat this process depending on how heavy the stain is. Rub a good amount of toothpaste with a toothbrush on the stain and let it sit for 10 minutes. Then rinse off the toothpaste with a mixture of cold water and vinegar and rub it in again with toothpaste. Repeat this till it is fully gone.
 
 **🖋 Pen Ink:** Apply the same process as Ballpoint.
 
