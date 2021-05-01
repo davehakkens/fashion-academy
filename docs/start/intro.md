@@ -26,3 +26,14 @@ Hi good to see you here! This is the academy section of https://fixing.fashion. 
 
 ### Why are we doing this..
 For several years the fashion industry has been under fire for the problems they create. Exploiting workers, sweatshops, overproduction, pushing consumption, polluting rivers etc. Problems have been addressed and worked on but always within the same framework. A company trying to make money off you buying something. It's time to have a try at a deeper fix. If you want to go more in depth about the problem go to the next chapter.
+
+
+### Open source & License
+Fixing Fashion is an open source project. That's how we work. How it comes natural. We believe knowledge should be free. An asset for humanity that shouldn't have a price. We share all the outcomes of our research & development online. For the people. For the planet.
+
+Different parts of this project are under different license conditions
+
+- **Content:** All our content is licensed under Creative Commons Attribution - Sharealike International 4.0. You can read a summary of that [here](https://creativecommons.org/licenses/by-sa/4.0/), or check out the full [license](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+- **Code:** Code license for the academy site is [GPL-3.0 License](https://github.com/ONEARMY/fixing-fashion-academy/blob/master/LICENSE).
+
+If you want to contribute to the project you can help us code the [academy](https://github.com/ONEARMY/fixing-fashion-academy), get active on [discord](https://discord.com/invite/SSBrzeR) or check different ways you can [support](https://preciousplastic.com/support-now) the project.
