@@ -69,7 +69,7 @@ The more advanced you get, the more you can vary with weaving patterns. If the h
 
 <img src="../assets/repair/darning_01.jpg"/>
 
-If you want to bring your work to the next level. You can prepare cards with the coloured yarns you have and see what colour combination fits best with the colour of the garment. , This avoids working on a darning job where you are eventually not happy with it, because you chose the wrong colours.
+If you want to bring your work to the next level. You can prepare cards with the coloured yarns you have and see what colour combination fits best with the colour of the garment. This avoids working on a darning job where you are eventually not happy with it, because you chose the wrong colours.
 
 <img src="../assets/repair/darning_03.jpg"/>
 
