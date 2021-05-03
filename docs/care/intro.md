@@ -7,9 +7,9 @@ title: Care for your clothes
 </div>
 
 # 1. Stains
-Often garments are thrown away because stains were impossible to remove, but there is always something you can do. Ideally, you act on a stain as soon as it happens! Identify the spot and check what is necessary to remove it. You can easily replace the heavy chemical detergent for more natural ingredients, consisting of single elements. With these are the 9 ingredients, you can replace all your common chemical stain removers.
+Often garments are thrown away because stains were impossible to remove, but there is always something you can do. Ideally, you act on a stain as soon as it happens! Identify the spot and check what is necessary to remove it. You can easily replace the heavy chemical detergent for more natural ingredients, consisting of single elements. With these nine ingredients, you can replace all your common chemical stain removers.
 
-> Note: This is our first version of the Academy. We have many more topics and techniques document, it will grow overtime. If you want to support us make sure to join [Patreon](https://www.patreon.com/one_army).
+> Note: This is our first version of the Fixing Fashion Academy. We have many more topics and techniques to document, it will grow overtime. If you want to support us make sure to join [Patreon](https://www.patreon.com/one_army).
 
 <img src="../assets/care/care_products.png"/>
 
@@ -19,14 +19,14 @@ Often garments are thrown away because stains were impossible to remove, but the
 3. Lemon, Citric acid
 4. Hydrogen Peroxide, for the heavy stains
 5. Table Salt
-6. Baking soda/Sodium Bicarbonate (NaHCO₃)), if you think not effective enough then replace it or combine it for Washing soda/Sodium Carbonate (Na2CO3)), don’t use Washing soda to much on Protein fibres
-7. Dishwash soap
+6. Baking soda/Sodium Bicarbonate (NaHCO₃), if you think it is not effective enough then replace it or combine it with Washing soda/Sodium Carbonate (Na2CO3), don’t use Washing soda to much on Protein fibres
+7. Dishwashing soap
 8. Toothpaste with glycerine and Sodium fluoride
 9. Green Soap
 
 
 ### Stains overview
-Below is a chart that shows a few stains and whether you can remove them. Scroll down below to see how to do it, if you don't know what 🛢 Synthetic, 🐑 Animal-Based or 🌱 Plant-Based Fibres mean check out the Basics here.
+Below is a chart that shows a few stains and whether you can remove them. Scroll down below to see how to do it, if you don't know what 🛢 Synthetic, 🐑 Animal-Based or 🌱 Plant-Based Fibres mean check out the basics [here](https://community.fixing.fashion/academy/basics/fibres).
 
 >Note: After treating the stain, wash it in the washing machine while it is still fresh and wet. If you let the stain dry it will bite in the fabric, which makes it harder or even impossible to remove.
 
@@ -50,7 +50,7 @@ Below is a chart that shows a few stains and whether you can remove them. Scroll
 |🧱 Mud |Cold water|Dust off/ Bile soap|✔|✔|✔|
 |🖍 Glue  |Hot water|Vinegar|✔|-|✔|
 |🎨 Paint |Cold water|Green Soap or Vinegar + Hydrogen Peroxide|✔|-|✔|
-|🍅 Tomato Sauce |Cold water|Green soap + Bakingsoda|✔|✔|✔|
+|🍅 Tomato Sauce |Cold water|Green soap + Baking Soda|✔|✔|✔|
 |◻️ Chewing gum |Cold water|Toothpaste|✔|✔|✔|
 |🩸 Blood |Spit|-|✔|✔|✔|
 
@@ -73,7 +73,7 @@ Below is a chart that shows a few stains and whether you can remove them. Scroll
 **🦷 Toothpaste:** Annoying because in black clothes it looks like they faded away when wet, but dried up again it’s still there. Just use a fair amount of hot water and it’ll wash out.
 
 
-**🍓 Berry/fruit stain:** Lemon has the same acidity and takes out the colour of the berries or any kind of natural fruit colourants and Vinegar makes sure the tannins in the stain don't give a different stain colour. If you are in a restaurant you can already ask for a lemon to pretreat the stain. Then remove it after with 2 tbsp vinegar and water. Keep repeating if it is stubborn.
+**🍓 Berry/fruit stain:** Lemon has the same acidity and takes out the colour of the berries or any kind of natural fruit colourants and Vinegar makes sure the tannins in the stain don't give a different stain colour. If you are in a restaurant you can already ask for a lemon to pretreat the stain. Then remove it after with 2 tablespoons of vinegar and water. Keep repeating if it is stubborn.
 
 
 **🍛 Curry:** Although the component Turmeric is used to dye fabrics as it is a tannin based stain, which means it bites easily, still, it is possible to remove it naturally. So first scrape the curry off. Pour some vinegar on it and in the meantime make a bath of warm water and baking soda and pour it on the stain. Leave it for 30 minutes. Rinse again and repeat till the stain is removed. If not use a bath of hydrogen peroxide. Leave it in the laundry.
@@ -96,9 +96,9 @@ Below is a chart that shows a few stains and whether you can remove them. Scroll
 
 **🍅 Tomato sauce:** Tomato sauce is just like wine, a tannin based product, which bites in the fabric. So act as soon as possible! Remove as much of the excess tomato sauce with a spoon. Rinse the back of the stain with cold water till most of it has faded out. If it is a fresh stain, cover the stain with green soap and leave it for a while. If it is a set stain, make a mixture of washing soda and water and rub it on the stain with a cloth or toothbrush. Leave it for a while. Then rinse it off with warm water and wash it normally.
 
-**◻️ Chewing gum:** This can be super annoying but is also very easy with very cold water and toothpaste. Make it cold first with water. Brush with an old toothbrush some toothpaste on the chewing gum until it falls off. Then remove the leftover bits, and wash it off with water.
+**◻️ Chewing gum:** This can be super annoying but is also very easy with very cold water and toothpaste. Make it cold first with water. Brush with an old toothbrush with some toothpaste on the chewing gum until it falls off. Then remove the leftover bits, and wash it off with water.
 
-**🩸 Blood:** The weirdest one so far. But during sewing, you might pin yourself and without noticing have a bloodstain on your clothes. The enzymes of your spit, react with your blood enzymes. So spit on the stain and blot it away with a clean cloth. Then rinse it off with water. Note: only your spit reacts with your blood.
+**🩸 Blood:** The weirdest one so far. But during sewing, you might pin yourself and without noticing have added a bloodstain on your clothes. The enzymes of your spit, react with your blood enzymes. So spit on the stain and blot it away with a clean cloth. Then rinse it off with water. Note: only your spit reacts with your blood.
 
 # 2. Know the washing labels
 The washing instructions on the label are the only form of transparency a producer can give to the consumer, as the labels are regulated. The full label gives you information on how to wash your clothes, where it’s made and what brand and manufacturer made the garment.
@@ -106,21 +106,21 @@ The washing instructions on the label are the only form of transparency a produc
 <img src="../assets/care/care_washinglabels.png"/>
 
 ### No label?
-No clue what to do with your washing, because you have already cut out the labels or you bought a second-hand shirt without one? Then there are always steps by guessing the fibre of the garment and what the fibres general washing guidelines are. Try to wash your clothes as little as possible. Most clothes don't need to be washed after every wear. The more you wash them, the more they lose their quality. Wash your main clothes around 30 degrees. This temperature not only requires less energy, but it is also better for the fibres as the fabric doesn't undergo the added stress of overheating. But there are a few exceptions. In the Basics, we discussed what Fibres are and how they are divided in Plant-based, Protein-based and Synthetic based. It is important to know that as some of these fibres require different treatment methods. You learn by doing, but hopefully, the table underneath helps you out.
+No clue what to do with your washing, because you have already cut out the labels or you bought a second-hand shirt without one? Then there are always steps to guess the fibre of the garment and what the fibres general washing guidelines are. Try to wash your clothes as little as possible. Most clothes don't need to be washed after every wear. The more you wash them, the more they lose their quality. Wash your main clothes around 30 degrees centigrade. This temperature not only requires less energy, but it is also better for the fibres as the fabric doesn't undergo the added stress of overheating. But there are a few exceptions. In the [Basics](https://community.fixing.fashion/academy/basics/fibres), we discussed what Fibres are and how they are divided in Plant-based, Protein-based and Synthetic based. It is important to know that as some of these fibres require different treatment methods. You learn by doing, but hopefully, the table underneath helps you out.
 
 
 | 🌱 Plant Based |Washing after| Washing temperature | Hand or Machine| Drying | Ironing|
 |-------|----|----|----|------|------|
 | Underwear and towels (Cotton)| After every wear| 30-60℃|Machine|Line/Tumble| High|
-| Delicates |After a week|40 ℃ | Hand | Line | No|
+| Delicates |After a week|40℃ | Hand | Line | No|
 |Jeans (Cotton or Cotton/ Elastane)|When stained|15-30℃|Machine|Line|No|
-|General clothing (like shirts, pants etc.)|When stained or smelly|30 ℃|Machine|Line/Tumble|High|
+|General clothing (like shirts, pants etc.)|When stained or smelly|30℃|Machine|Line/Tumble|High|
 
 <br>
 
 | 🐑  Animal Based | Washing after| Washing temperature | Hand or Machine| Drying | Ironing|
 |-------|----|----|----|------|------|
-|  Merino Wool (Knitted)|  Preferably not| 15℃ | Hand | Flat | Middle High |
+|  Merino Wool (Knitted)|  Preferably not| 15℃ | Hand | Flat | Middle high |
  | Alpaca (Knitted) | Preferably not | 15℃ | Hand | Flat  | Middle high |
  | Mohair (Knitted) | Preferably not | 15℃ | Hand | Flat | Middle high |
  | Cashmere (Knitted)  | Preferably not | 15℃ | Hand | Flat | Middle high |
@@ -145,32 +145,32 @@ No clue what to do with your washing, because you have already cut out the label
 
 
 # 3. Detergents and Softeners
-Ideally, for every fibre sort, you need a different washing detergent. But having all of them can be pricey and a lot of work to find out if it contains natural ingredients. The simplest and cheapest option is making your own detergent. This detergent recipe is not only ecological, but it’s also healthy and soft for your skin, very cheap and since you made it, you know exactly what is in it. Marseille soap, which uses olive oil as a base, contains no synthetic fragrances, phosphates and optical brighteners. It washes as a normal detergent. But, for really heavy stains, it’s better to pretreat it with stain removing soap, like Oxgall/Bile soap or black soap (great for sweat, coffee, fruit and butter stains).
+Ideally, for every fibre type, you need a different washing detergent. But having all of them can be pricey and a lot of work to find out if it contains natural ingredients. The simplest and cheapest option is making your own detergent. This detergent recipe is not only ecological, but it’s also healthy and soft for your skin, very cheap and since you made it, you know exactly what is in it. Marseille soap, which uses olive oil as a base, contains no synthetic fragrances, phosphates and optical brighteners. It washes as a normal detergent. But, for really heavy stains, it’s better to pretreat it with stain removing soap, like Ox gall/Bile soap or black soap (great for sweat, coffee, fruit and butter stains).
 
 <img src="../assets/care/care_detergents.png"/>
 
 ### Tools + Ingredients:
- - grater
- - boil pot 
-- wooden spoon 
+- grater
+- boil pot
+- wooden spoon
 - glass bottles or any large container
- - 80 gr Marseille Soap 
+- 80g Marseille Soap
 - 5l water
- - funnel
- - mixer
- - essential oils (optional for smell)
- - Baking Soda/Sodium Bicarbonate (optional for bleach)
- - Vinegar (optional for colored)
+- funnel
+- mixer
+- essential oils (optional for smell)
+- Baking Soda/Sodium Bicarbonate (optional for bleach)
+- Vinegar (optional for colored)
 
 
 ### Steps to make normal washing detergent
 1. Grate the Marseille soap straight into the pot.
 2. Add 1 litre of water and let it boil for a few minutes.
 3. Add another 4 litres of water and let it boil again for an hour.
-4. Stir it well, put the pot away for a night and let it cool down. After the night the detergent is a little bit thicker, stir it well with a mixer.
+4. Stir it well, put the pot away for a night and let it cool down. After a night the detergent is a little bit thicker, stir it well with a mixer.
 5. Using a funnel helps to get the soap straight into the bottles. Mark the bottles with white and colored.
 
-> TIP: Use about 20 ml of washing detergent every wash and every time 10 drops of essential oil in the detergent drawer. Don’t put the essential oil straight with the washing in a dosing ball, cause directed contact with essential oil on clothes may cause stains! 
+> TIP: Use about 20 ml of washing detergent every wash and every time 10 drops of essential oil in the detergent drawer. Don’t put the essential oil straight with the washing in a dosing ball, because direct contact with essential oil on clothes may cause stains!
 
 
 
@@ -188,6 +188,6 @@ To keep the blacks as vibrant as possible you can use vinegar. If you don’t li
 
 # 4. Checklist before washing
 1. **Pockets:** You don’t want any ‘to-do list paper pulp’ on your clothes that takes an hour to remove. Or a screw that rips your pocket (this sounds like this has happened to me before). So empty your pockets before you wash your clothes.
-2. **Zippers and buttons:** If you don’t close zippers they zipper might be stuck into the other garment, and could make a little rip in fragile fabrics. Open all buttons and hooks to prevent them from ripping off the fabric.
+2. **Zippers and buttons:** If you don’t close zippers they might be stuck into other garments, and could make a little rip in fragile fabrics. Open all buttons and hooks to prevent them from ripping off the fabric.
 
-**If you have any questions about this topic sure to visit our [community chat](https://discord.com/invite/SSBrzeR) on Discord. Many skilled and likeminded people in there :)**
+**If you have any questions about this topic sure to visit our [community chat](https://discord.com/invite/SSBrzeR) on Discord. Many skilled and likeminded people are in there :)**
