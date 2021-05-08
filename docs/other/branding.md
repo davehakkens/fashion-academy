@@ -15,7 +15,7 @@ There are several ways to add a logo to your clothes. Here a few tips to make it
 
 
 ### Logo, colors and typeface
-In case you need it, here you can download the .svg file from the Fixing Fashion logo. Feel free to use it for whatever you need, we are easy :). The color we use is #F82F0, The font we use is Open Sauce [(download)](https://github.com/marcologous/Open-Sauce-Fonts) . In case you wonder, the logo itself is 2 FF (FixingFashion) stitched together. And the icon itself is based on a # (hashtag) which is a crucial part of this project. To share and promote your repaired and upgraded clothes.
+In case you need it, here you can download the .svg file from the Fixing Fashion logo. Feel free to use it for whatever you need, we are easy :). The color we use is #F82F0, The font we use is Open Sauce [(download)](https://github.com/marcologous/Open-Sauce-Fonts) . In case you were wondering, the logo itself is 2 f's i.e. FF (FixingFashion) stitched together. And the icon itself is based on a # (hashtag) which is a crucial part of this project. To share and promote your repaired and upgraded clothes.
 
 
 # Logo
