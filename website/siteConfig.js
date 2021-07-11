@@ -57,7 +57,8 @@ const siteConfig = {
     primaryColor: '#F82003',
     secondaryColor: '#313131',
   },
-
+  editUrl: "https://github.com/ONEARMY/fixing-fashion-academy/blob/master/docs/",
+  
   /* Custom fonts for website */
   /*
   fonts: {
