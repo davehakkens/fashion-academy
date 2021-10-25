@@ -1,5 +1,8 @@
 # fashion-academy
-Academy for the fashion project
+Academy for the Fixing Fashion project
+
+- Fixing Fashion Website - https://fixing.fashion/
+- Fixing Fashion Academy - https://community.fixing.fashion/academy/start/intro.html
 
 ## Building locally
 It isn't particularly well-optimised for external contribution (yet!), but if you really want to try it out:
