@@ -11,21 +11,21 @@
 // List of projects/orgs using your project for the users page.
 const users = [
   {
-    caption: 'User1',
+    caption: "User1",
     // You will need to prepend the image path with your baseUrl
     // if it is not '/', like: '/test-site/img/image.jpg'.
-    image: '/img/undraw_open_source.svg',
-    infoLink: 'https://www.facebook.com',
+    image: "/img/undraw_open_source.svg",
+    infoLink: "https://www.facebook.com",
     pinned: true,
   },
 ];
 
 const siteConfig = {
-  title: 'Fashion', // Title for your website.
-  tagline: 'Providing sustainable fashion',
-  url: 'https://community.fixing.fashion', // Your website URL
+  title: "Fashion", // Title for your website.
+  tagline: "Providing sustainable fashion",
+  url: "https://community.fixing.fashion", // Your website URL
   baseUrl: "/",
-  onPageNav: 'separate',
+  onPageNav: "separate",
   // remove /docs/ prefix
   docsUrl: "academy",
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -33,32 +33,31 @@ const siteConfig = {
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'fixing-fashion-academy',
-  organizationName: 'ONEARMY',
+  projectName: "fixing-fashion-academy",
+  organizationName: "ONEARMY",
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
 
   // For no header links in the top nav bar -> headerLinks: [],
-  headerLinks: [
-    { href: 'https://fixing.fashion', label: 'Back' },
-  ],
+  headerLinks: [{ href: "https://fixing.fashion", label: "Back" }],
 
   // If you have users set above, you add it here:
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/logo.png',
-  footerIcon: 'img/favicon.ico',
-  favicon: 'img/favicon.ico',
+  headerIcon: "img/logo.png",
+  footerIcon: "img/favicon.ico",
+  favicon: "img/favicon.ico",
 
   /* Colors for website */
   colors: {
-    primaryColor: '#F82003',
-    secondaryColor: '#313131',
+    primaryColor: "#F82003",
+    secondaryColor: "#313131",
   },
-  editUrl: "https://github.com/ONEARMY/fixing-fashion-academy/blob/master/docs/",
-  
+  editUrl:
+    "https://github.com/ONEARMY/fixing-fashion-academy/blob/master/docs/",
+
   /* Custom fonts for website */
   /*
   fonts: {
@@ -73,34 +72,43 @@ const siteConfig = {
   },
   */
   fonts: {
-    bodyFont: ["-apple-system", "BlinkMacSystemFont", "Segoe UI", "Helvetica", "Arial",
-    "sans-serif", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"]
+    bodyFont: [
+      "-apple-system",
+      "BlinkMacSystemFont",
+      "Segoe UI",
+      "Helvetica",
+      "Arial",
+      "sans-serif",
+      "Apple Color Emoji",
+      "Segoe UI Emoji",
+      "Segoe UI Symbol",
+    ],
   },
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyrightnow © ${new Date().getFullYear()} ONE ARMY`,
+  copyright: `All content licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
-    theme: 'default',
+    theme: "default",
   },
 
   // Add custom scripts here that would be placed in <script> tags.
 
   scripts: [
-  "https://buttons.github.io/buttons.js",
-  "/js/custom.js",
-  "https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"
-],
+    "https://buttons.github.io/buttons.js",
+    "/js/custom.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js",
+  ],
 
   // On page navigation for the current documentation page.
-  onPageNav: 'separate',
+  onPageNav: "separate",
   // No .html extensions for paths.
   cleanUrl: true,
 
   // Open Graph and Twitter card images.
-  ogImage: 'img/undraw_online.svg',
-  twitterImage: 'img/undraw_tweetstorm.svg',
+  ogImage: "img/undraw_online.svg",
+  twitterImage: "img/undraw_tweetstorm.svg",
 
   // For sites with a sizable amount of content, set collapsible to true.
   // Expand/collapse the links and subcategories under categories.
