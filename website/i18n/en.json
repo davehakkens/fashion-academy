@@ -23,6 +23,12 @@
       "care/intro": {
         "title": "Care for your clothes"
       },
+      "guides/community-program": {
+        "title": "Community Program"
+      },
+      "guides/profile": {
+        "title": "Profiles overview"
+      },
       "other/branding": {
         "title": "Branding"
       },
@@ -51,7 +57,7 @@
         "title": "Hello ✋"
       },
       "start/problem": {
-        "title": "Whats the problem?"
+        "title": "What's the problem?"
       },
       "upgrade/intro": {
         "title": "Upgrade your clothes"
