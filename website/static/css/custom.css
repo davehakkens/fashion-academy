@@ -186,8 +186,9 @@ h3 {
 }
 
 
+.docsNavContainer,
 .navPusher {
-  padding-top: 60px;
+  padding-top: 0 !important;
 }
 
 /* Edit page button */
@@ -314,4 +315,8 @@ img {
   text-align: center;
   opacity: 0;
   text-transform: uppercase;
+}
+
+.fixedHeaderContainer {
+  display: none;
 }
