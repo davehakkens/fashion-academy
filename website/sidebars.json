@@ -5,6 +5,6 @@
     "1. Care": ["care/intro"],
     "2. Repair": ["repair/intro"],
     "3. Upgrade": ["upgrade/intro"],
-    "Other":["other/branding", "other/chat", "other/join", "other/team"]
+    "Other":["other/branding", "other/chat", "other/join", "other/team", "guides/profile", "guides/community-program"]
   }
 }
