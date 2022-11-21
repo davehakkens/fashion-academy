@@ -3,8 +3,8 @@
     "Start": ["start/intro", "start/problem"],
     "Basics": ["basics/intro", "basics/fibres", "basics/fabrics", "basics/sewing", "basics/seams"],
     "1. Care": ["care/intro"],
-    "2. Repair": ["repair/intro"],
-    "3. Upgrade": ["upgrade/intro"],
+    "2. Repair": ["repair/intro", "repair/darning", "repair/stitch", "repair/patch", "repair/needlefelting", "repair/edgemend", "repair/button", "repair/zipper"],
+    "3. Upgrade": ["upgrade/intro", "upgrade/resize", "upgrade/remake", "upgrade/recolor", "upgrade/decorate"],
     "Other":["other/branding", "other/chat", "other/join", "other/team", "guides/profile", "guides/community-program"]
   }
 }
