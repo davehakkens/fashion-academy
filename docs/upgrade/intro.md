@@ -15,10 +15,10 @@ Even after a lot of caring and repairing, sometimes your clothes just need a big
 # Techniques
 | Upgrade  |Description  |
 |--------------------|--------------------|
-|<img src="../assets/upgrade/upgrade_resize.jpg" width="150" height="150"/>| <img src="../assets/icons/upgrade_resize.png" width="30" height="30"/> <br> **Resize**   <br> How to change the fit by making one garment smaller or bigger, shorter or longer.      |
-|<img src="../assets/upgrade/upgrade_remake.jpg" width="150" height="150"/>| <img src="../assets/icons/upgrade_remake.png" width="30" height="30"/> <br> **Remake** <br> Two or more garments combine to make a new garment, with either the same function or a totally different one. From three shirts to one or from two shirts to a dress.      |
-|<img src="../assets/upgrade/upgrade_recolor.jpg" width="150" height="150"/>| <img src="../assets/icons/upgrade_recolor.png" width="30" height="30"/> <br> **Recolor** <br> Give a garment a new colour or bring it back to a more intense color, with a chemical dye or natural dye; that can be plant based or food based like leftovers of vegetables.    |
-|<img src="../assets/upgrade/upgrade_decorate.jpg" width="150" height="150"/>| <img src="../assets/icons/upgrade_decorate.png" width="30" height="30"/> <br> **Decorate** <br> Quick takes to change the look of your garment by using; Prints (think Bleach, Tie-dye, Shibori etc.), Markers, Embroidery and Needle Felting.    |
+|<img src="../assets/upgrade/upgrade_resize.jpg" width="150" height="150"/>| <img src="../assets/icons/upgrade_resize.png" width="30" height="30"/> <br> <a href="resize">**Resize**</a>   <br> How to change the fit by making one garment smaller or bigger, shorter or longer.      |
+|<img src="../assets/upgrade/upgrade_remake.jpg" width="150" height="150"/>| <img src="../assets/icons/upgrade_remake.png" width="30" height="30"/> <br> <a href="remake">**Remake**</a> <br> Two or more garments combine to make a new garment, with either the same function or a totally different one. From three shirts to one or from two shirts to a dress.      |
+|<img src="../assets/upgrade/upgrade_recolor.jpg" width="150" height="150"/>| <img src="../assets/icons/upgrade_recolor.png" width="30" height="30"/> <br> <a href="recolor">**Recolor**</a> <br> Give a garment a new colour or bring it back to a more intense color, with a chemical dye or natural dye; that can be plant based or food based like leftovers of vegetables.    |
+|<img src="../assets/upgrade/upgrade_decorate.jpg" width="150" height="150"/>| <img src="../assets/icons/upgrade_decorate.png" width="30" height="30"/> <br> <a href="decorate">**Decorate**</a> <br> Quick takes to change the look of your garment by using; Prints (think Bleach, Tie-dye, Shibori etc.), Markers, Embroidery and Needle Felting.    |
 
 
 
