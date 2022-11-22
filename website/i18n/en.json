@@ -47,8 +47,29 @@
       "patreon": {
         "title": "Help to unlock"
       },
+      "repair/button": {
+        "title": "Button"
+      },
+      "repair/darning": {
+        "title": "Darning"
+      },
+      "repair/edgemend": {
+        "title": "Edge Mend"
+      },
       "repair/intro": {
-        "title": "Repair your clothes"
+        "title": "Introduction"
+      },
+      "repair/needlefelting": {
+        "title": "Needle Felting"
+      },
+      "repair/patch": {
+        "title": "Patch Repair"
+      },
+      "repair/stitch": {
+        "title": "Stitch Repair"
+      },
+      "repair/zipper": {
+        "title": "Zipper"
       },
       "start/basics": {
         "title": "Basic tools & techniques"
@@ -59,8 +80,20 @@
       "start/problem": {
         "title": "What's the problem?"
       },
+      "upgrade/decorate": {
+        "title": "Decorate"
+      },
       "upgrade/intro": {
-        "title": "Upgrade your clothes"
+        "title": "Intro"
+      },
+      "upgrade/recolor": {
+        "title": "Recolor"
+      },
+      "upgrade/remake": {
+        "title": "Remake"
+      },
+      "upgrade/resize": {
+        "title": "Resize"
       }
     },
     "links": {
