@@ -25,12 +25,12 @@ Instead of fully dyeing your garments, you can use your dye for making prints. T
 
 **Tie-dye:** This is derived from the Shibori in the US in the '60s and is a more straightforward and simple technique of twisting and tying. This can be done with Bleach on darker clothes, as a replacement for dye.
 
-**Bleach:** Using bleach as a replacement for dye is great with techniques like Shibori and Tie-Dye. We know bleach is harmful to the environment, but throwing away a garment still weighs heavier than bleach. Besides this is the only way to give a faded dark coloured shirt a new purpose by changing in colour or print. For your Bleach dye, you will need ⅙ of bleach to ⅚ of water. We used 500 ml of bleach and 2.5l of water. This was enough to bleach jeans. Now there are ways to do it naturally with a lot of sun and lemon. But this will take a lot of time as you need to leave it for months to see some result. Always use gloves and wear an apron or work clothes, that you don’t mind getting stained.
+**Bleach:** Using bleach as a replacement for dye is great with techniques like Shibori and Tie-Dye. We know bleach is harmful to the environment, but throwing away a garment still weighs heavier than bleach. Besides this is the only way to give a faded dark coloured shirt a new purpose by changing in colour or print. For your Bleach dye, you will need ⅙ of bleach to ⅚ of water. We used 500 ml of bleach and 2.5l of water. This was enough to bleach jeans. Now there are ways to do it naturally with a lot of sun and lemon. But this will take a lot of time as you need to leave it for months to see some result. Always use gloves and wear an apron or work clothes, that you don’t mind getting stained and enjoy the video [Tie-dye with bleach video](https://www.youtube.com/watch?v=WjSjI4d5oq0)
 
 <img src="../assets/upgrade/upgrade_decorate_overview.jpg"/>
 
 
-**Textile markers:** This is pretty straight forward. You can buy yourself some markers to draw on a shirt. Make sure to use real textile markers and not the normal ones for paper, because they fade out and might ruin your clothes. The outcome of this technique depends on your drawing skills. Tip: If you are not very good, bring them to a friend who is good at drawing, this will give a much better result!
+**Textile markers:** This is pretty straight forward. You can buy yourself some markers to draw on a shirt. Make sure to use real textile markers and not the normal ones for paper, because they fade out and might ruin your clothes. The outcome of this technique depends on your drawing skills. Tip: If you are not very good, bring them to a friend who is good at drawing, this will give a much better result! If you do want to give it a try to just quickly cover up that stain, then you watch the video Textile marker cover-up [here](https://www.youtube.com/watch?v=QKlgA4TyPq0)
 
 
 **Printing:**
@@ -38,7 +38,7 @@ A print on a garment doesn’t always need to be something that we call an all-o
 
 <img src="../assets/upgrade/upgrade_decorate_print.jpg" width="400" height="400" />
 
-Transfer printing is quite an easy way to do it if you only need one garment printed. You can buy transfer papers and will only need a working printer. Follow the instructions on the package and iron the print onto the garment. Silkscreen printing requires more work up front, but once you have it set up it’s much faster to run a production. For instance by covering up old shirts with new logos.
+Transfer printing is quite an easy way to do it if you only need one garment printed. You can buy transfer papers and will only need a working printer. Follow the instructions on the package and iron the print onto the garment. As you can see [here](https://www.youtube.com/watch?v=iVHNtglyTHQ) in this video, where we show you the difference between transfer paper for white clothes and black clothes.  Silkscreen printing requires more work up front, but once you have it set up it’s much faster to run a production. For instance by covering up old shirts with new logos.
 
 
 **Embroidery:**

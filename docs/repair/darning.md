@@ -7,7 +7,7 @@ title: Darning
 </div>
 
 # <img src="../assets/icons/repair_darning.png" width="30" height="30"/> Darning
-Darning is a repair technique where you create a woven patch over the hole or in the hole. In the Basics, we discuss what weaving is and how it is made. To bring your darning work to the next level you need to know what kind of weaving pattern you can use.
+Darning is a repair technique where you create a woven patch over the hole or in the hole. In the Basics, we discuss what weaving is and how it is made. To bring your darning work to the next level you need to know what kind of weaving pattern you can use. In this video, we show how you do it with a plain weave, which is a good start when you have never done weaving before 
 
 <img src="../assets/repair/darning_02.png"/>
 

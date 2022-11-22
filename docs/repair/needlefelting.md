@@ -7,7 +7,12 @@ title: Needle Felting
 </div>
 
 # <img src="../assets/icons/repair_needle-felting.png" width="30" height="30"/> Needle Felting
-Needle felting can be a good repair technique when having a hole in a knitted garment or a thicker woven or felted garment. Because wool has these amazing fibre hairs that intersect with each other, adding friction and/or heat can create a felt. Therefore, you need hot water or just very simple needle punch needles. These needles have intersected hooks, that when you punch through the wool fibres, the fibres will stick together and become felted.
+Needle felting can be a good repair technique when having a hole in a knitted garment or a thicker woven or felted garment. Because wool has these amazing fibre hairs that intersect with each other, adding friction and/or heat can create a felt. Therefore, you need hot water or just very simple needle punch needles. These needles have intersected hooks, that when you punch through the wool fibres, the fibres will stick together and become felted. This a very easy and quick repair which is shown in the video above
+
+> We would recommend doing this only on thicker fabrics as the patch easily gets thicker than the fabric itself on, for example, a thin t-shirt.
+
+
+
 These are the tools you need:
 
 <img src="../assets/repair/needle_felting.jpg"/>

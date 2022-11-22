@@ -10,7 +10,7 @@ No matter how much you take care of your garments, they are there to be worn, so
 
 > Note: This is our first version of the Fixing Fashion Academy. We have many more topics and techniques to document, it will grow overtime. If you want to support us make sure to join [Patreon](https://www.patreon.com/one_army).
 
-# Overview of our favorite techniques
+# Overview of our favourite techniques
 
 | Repair|      Brief description   | Done by Hand or Machine | Used on Knits or Woven |
 |--------------------|--------------------|--------------------|--------------------|

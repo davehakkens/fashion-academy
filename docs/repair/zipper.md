@@ -9,7 +9,13 @@ title: Zipper
 
 # <img src="../assets/icons/repair_zipper.png" width="30" height="30"/> Zipper Repair
 
-A zipper repair requires more sewing skills. You can try it out yourself, but you will need some patience. It can be tedious and you may want to throw your sewing machine out of the window when you are done. You will also need a zipper foot for your sewing machine unless you want to do it by hand. We would like to eventually provide a full video ourselves on zippers, but that needs a full video in itself. It is a big topic as there are many different zippers, ways to attach them and ways they could break. For instance, jeans need a different way of zipper replacement than jackets. In the video, we talk about the different zippers out there and the different situations where you do and don't need to replace the full zipper.
+A zipper repair requires more sewing skills. So in the video above we show you how to go around it :)
+If you need a zipper replacement and it’s in a hoodie, a jacket or another oversized garment then you can also remove the zipper. This is for instance if you want to change your zipper hoodie into a normal hoodie. Or your jacket into an anorak. [Watch this video](https://youtu.be/watch?v=TnxGHRlevlQ?t=1161) at 19:20 if you do want to learn more about actually repairing it. 
+
+
+
+
+You can try it out yourself, but you will need some patience. It can be tedious and you may want to throw your sewing machine out of the window when you are done. You will also need a zipper foot for your sewing machine unless you want to do it by hand. We would like to eventually provide a full video ourselves on zippers, but that needs a full video in itself. It is a big topic as there are many different zippers, ways to attach them and ways they could break. For instance, jeans need a different way of zipper replacement than jackets. In the video, we talk about the different zippers out there and the different situations where you do and don't need to replace the full zipper.
 
 <img src="../assets/repair/zippers_01.png"/>
 
